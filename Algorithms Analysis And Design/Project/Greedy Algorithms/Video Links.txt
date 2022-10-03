@@ -1,0 +1,5 @@
+1. Intro To Greedy: https://youtu.be/udoldGF3lXQ
+2. Huffman Visualization: https://youtu.be/NBE8JR9VM8c
+
+Application of Greedy Algorithm:
+1. Number of Railway platforms: https://youtu.be/t9hkDv_y7Vc
