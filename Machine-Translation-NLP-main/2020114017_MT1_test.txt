@@ -1,0 +1,1306 @@
+0.0068930998863544115
+J'ai j'ai j'ai j'ai j'ai j'ai de j'ai de j'ai de ma ma <EOS>	0.5169731539571706
+Je suis une dans dans dans dans dans de <EOS>	0
+Elle a a été un de de de de <EOS>	0.5623413251903491
+Maintenant, un et a et et et et et et et et et et et et et et <EOS>	0.1915332130229677
+Je je je je je la <EOS>	0
+Mon était de de de de de de <EOS>	0.46230595512422085
+Et je suis une un un un un un un de de <EOS>	0.5942647088781684
+Je veux veux très très <EOS>	0.6389431042462724
+Mais je ne pas pas <EOS>	0.5081327481546147
+Pour le la le le le le le le le le le le le le le le le <EOS>	0.4614649086887338
+Pour : de je de et et je et et et et et de de de <EOS>	0
+Le président de tard, de de de de de de de de de de de <EOS>	0.43502125569526856
+Tout la je je je et et je je <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>	0.5695988432761473
+Mais il m'a m'a mon de de de de de de de de de de <EOS>	0.6598203338556885
+Je me à <EOS>	0
+Je n'avais pas pas pas de de de mais mais mais mais de de de de de de <EOS>	0.48640304576678556
+Et répondit elle : elle elle elle elle elle elle elle de de <EOS>	0.5169731539571706
+Celui Bacha de de de de de de me de me <EOS>	0
+C'est est que que de de de <EOS>	0.6905911470987942
+C'est la que que que de la que de de de la la <EOS>	0.7311104457090247
+Les gens ont a pas pas de mais mais mais mais mais mais mais mais de de de <EOS>	0.26642688925300656
+On a une une de et et et et et et et et et et de <EOS>	0.4909136024426773
+C'était ce que j'ai de que de que que j'ai de de de de de que de de <EOS>	0.09763177347498744
+Il y a des millions de de de de de de <EOS>	0.30039183588157964
+Nous travaillons ces ces de de de de de de de de de que que de de de <EOS>	0.3242053201351006
+Même si vous vous votre votre votre votre <EOS>	0.408248290463863
+Je veux vous un un un <EOS>	0.5329462628216854
+Il a pas un de <EOS>	0
+Si vous vous un un un un vous je une vous vous de vous vous vous avec de <EOS>	0.12004088862206469
+Je j'ai que que de de de de de de de de de de de de de de <EOS>	0.05046504741190867
+Ce n'est pas pas pas pas pas <EOS>	0.32260135189272865
+Nous avons tous des de de de de les de qui nous de de de de <EOS>	0.6111127561260491
+Cela signifie a de de de les et et les et et et et et et et et <EOS>	0.45967013419737907
+Les ne sont sont pas pas sont des des <EOS>	0.5088274727401554
+Ce que je je je je je pas <EOS>	0.6865890479690392
+Nous avons une une de de de de de de de de de de de de de <PAD> <EOS>	0.47897362544357464
+Nous pouvons qu'ils pas de de de de de de ou ou ou ou qu'ils qu'ils qu'ils <EOS>	0.5116256419057634
+Nous avons une avec avec et et et et et et et et et et et et et et	0.1886076952701759
+Nous pouvons que que que de de et et et que et de et et et et et <EOS>	0.11058175209756434
+Alors donc de de de de de et et et et et et <EOS>	0.6147881529512643
+Quand nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous que <EOS>	0.33125669191122536
+C'est un un une un un un un de de vous pouvez avec avec avec de <EOS>	0.5522027108670324
+Mais ce ce nous nous nous nous nous nous nous nous nous nous nous nous nous nous qui <EOS>	0.20086901627334317
+Mais ce ce ce que ce qui <EOS>	0.4787974949414673
+La de de de de de <EOS>	0.476273899703797
+Le premier a un de de de <EOS>	0
+De y a a a de et dans et et dans en de <EOS>	0
+C'est vraiment <EOS>	0.7598356856515925
+Pour nous nous nous nous nous nous nous nous nous nous nous de <EOS>	0.5724063666159062
+Quelqu'un : : : : que vous que que que que que que que que que que de <EOS>	0.5403952143993433
+Les a de de <EOS>	0
+Vous vous pouvez vous un un de vous de et de et de et et et et et <EOS>	0.2873559821320886
+Les <EOS>	0
+Vous pouvez voir de et et et et et et et et et et et <EOS>	0.5455318392090728
+Et puis et vous vous vous et et et et et et et vous vous vous et et <EOS>	0.10735207584571214
+Ou je suis je je je que je je ne que de de de ne de je <EOS>	0.256122236282007
+Mais je que je je et je et et et je et et et et et et et <EOS>	0.29034622434743534
+Je eu de de de de de de de de de <EOS>	0.537284965911771
+Et le le le ma ma ma ma ma ma ma ma ma ma <EOS>	0.36409302398068727
+Imaginez le la et et et et et et et et et et et et et et et <EOS>	0.46862274909776624
+Je ne pas pas pas je que je pas je que je je je je la <PAD> <PAD> <PAD>	0.19352631821247096
+Où sont sont de de <EOS>	0.2608840516436559
+Pourquoi ne pas pas ? <EOS>	0.6389431042462724
+Alors il a a mais mais mais mais mais mais mais mais mais très très <EOS>	0.5807156200013266
+Alors donc donc a y a il de de de de de de de de de de <EOS>	0.1786024416690236
+Il sont de de et et et et et et et et et et et de de et <EOS>	0.41374339994877646
+La problème est pas pas pas pas de de de de <EOS>	0.5444460596606694
+C'est ne pas pas que vous vous pas vous vous vous vous <EOS>	0.5942647088781684
+C'est n'est pas pas si si que que si que que que que ou n'y n'y a <EOS>	0.3939328149130935
+Un est de et et et et et et et et et et et et et et et <EOS>	0.22000868600418652
+Je veux que nous nous ce nous les <EOS>	0.18884908940114511
+C'est un un un de de de <EOS>	0
+C'est un un un un un un <EOS>	0.5946035575013605
+Au que très très que de de de la de de de de de de de de <EOS>	0
+Elle a dit dit dit dit que de de de de de de de de de de de <EOS>	0.26845899024598135
+Parce qu'il a un un un un elle un elle elle un avec avec avec de <EOS>	0.5122490320374565
+Et la les de de de de de de de de de <EOS>	0.4876485015882737
+Elle ne pas pas de et et et et et et et et et et et et et et	0.41374339994877646
+Même les et était elle et et et et et et et et et et et et et <EOS>	0.51268887076046
+Elle a un un et et et et et et et et et et et et et et et	0.17239667505831133
+Elle était a elle qu'elle elle de elle qu'elle elle de et et de et de <EOS>	0.22697340794651855
+C'est mon genre je je je je de de <EOS>	0.4604061366599648
+En je je pas pas pas de de de de de pas de de <EOS>	0.4329820146406897
+Mais ce y a pas pas de de de de de de de <EOS>	0.28920071571583406
+C'était était que de je de et et et et et <EOS>	0.5985529678206387
+Je suis que je ce je de qui que qui de qui ce ce ce je qui <EOS>	0
+Alors j'ai le je et et et et et et et et et et et et et je <EOS>	0.33136632370531255
+Soit : : j'ai à de de de de de de et et de de de de de <EOS>	0.5695988432761473
+Je je que que vous je que vous je vous je vous que que vous <EOS>	0.40866465020165643
+Comment comment que vous que vous vous vous <EOS>	0.29642151188002913
+Je ne pas pas de et et et et et et et et et et et et et et	0.19057035736042213
+Alors donc la le la la la la la la de de de la <EOS>	0
+Je ne pas pas pas pas pas je mais mais mais mais je mais mais je mais je <EOS>	0.20714875366027774
+C'est <EOS>	0.30934850332660563
+Je veux le à et et et et et de de <EOS>	0.2559651247709894
+Pour je je je je je je je que que le <EOS>	0.537284965911771
+Les algues de sont de de de de de de de de de de de de de <EOS>	0.1780452326279276
+Cette a que de de de de de de de de de de de de de de de de	0.6303647413359293
+En nous nous nous nous de nous de nous de de de notre notre notre notre <EOS>	0.4924790605054523
+Alors ils vous sont des de de de de <EOS>	0.4960923395774537
+Mais les les les les les les et et et et de de de <EOS>	0.5475182535069453
+Malheureusement, sûr, la de de de de que que que que que que ne ne ne ne <EOS>	0.3467847604369132
+Ce n'est pas pas pas de de de pas de de <EOS>	0.29502343631964045
+Soit ne vous pas pas de et et et et et pas pas pas pas ne ne et <EOS>	0.6303647413359293
+Pour un c'était un de de de un un mais mais un de de un de de <EOS>	0.2634994362201052
+Je veux le le le vous vous vous vous vous vous vous dans le <EOS>	0
+Je vous que vous que que de de de de de de de de de de de <PAD> <PAD>	0.35469140112086484
+Mais quand vous les les les les les les les vous les vous vous vous vous les les <EOS>	0.22086770630622607
+La chose est que vous vous vous de et et et et et et et et et <PAD> <EOS>	0.5403952143993433
+La deuxième est de et est et et et et et et est et et et la et et	0.33519741574574186
+Alors ce est-il passe-t-il ? ? <EOS>	0.5329462628216854
+Et nous a dit dit a a a a a a de de de de et de et <EOS>	0.4445962170753971
+Ce un un de un de de de <EOS>	0.6143868746168435
+C'est un de de de à de de de de de <EOS>	0.3542000795248998
+Et il a ans, ans, de ans de de de de de <EOS>	0.5266403878479265
+Elle m'a a un de un de de de de <EOS>	0.7226568811456053
+Elle a dit a de elle de elle de et et de de et et de et et <EOS>	0.36019306418532926
+Et je je je je je je je je je je je que que de <EOS>	0.43502125569526856
+Ils sont sont sont de de <EOS>	0.4671379777282001
+Il y a a ans, y a a de de de de de de <EOS>	0.41602390756021224
+Le première est est est la est la la la la une une une de de de de <EOS>	0.47897362544357464
+Ou les a a ans, ou ou ou ou ou ou ou ou ou ou ou ou ou <EOS>	0.2918131970187565
+Alors il a a de de de de de de de de de <EOS>	0.3884935863283276
+C'est ce que que que que que que que que que ce <EOS>	0.4758733096412523
+C'est ce que que de que que de que je que de de je que de de <EOS>	0.056037704725967384
+Ne ne vous pas pas vous vous vous vous vous vous vous vous <EOS>	0.7197629007461867
+Vous pouvez vous votre votre votre <EOS>	0.7311104457090247
+Merci. <EOS>	0.8408964152537145
+Au les nous de de nous de de de de de de de de de de de et <EOS>	0.3063868623171817
+Et c'est est que de de de de de de de de et et et de de et <EOS>	0.2576396142033515
+Mais je pense que que que que que que que que que que pas <EOS>	0.31239399369202553
+Je veux ce ce ce ce ce <EOS>	0
+Soit Vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous <EOS>	0.38875142041440197
+Il peut peut de de de de de de de de de de de et et et et <EOS>	0.45441639860867034
+Alors ce ce ce ce de de <EOS>	0
+Mais nous nous le de de de <EOS>	0.6240195441936915
+Comment peut tous de de de de de de et et de et et et et et <EOS>	0.571751410886987
+En mon j'ai j'ai je mon mon mon mes j'ai mes mes mes mes mes mes mes <EOS>	0.3701856698591431
+Soit un de un de de de et et et et et et et et et et et <EOS>	0.2616358947585782
+Parce que c'est une dans dans de de et et et et et et et et de et <EOS>	0.2535656082323295
+Vous vous vous vous vous le le le le le le le le le et et et et <EOS>	0.51268887076046
+Soit : vous vous vous vous de avec de de <EOS>	0.4578141331660858
+Donc nous nous ces ces ces ces ces ces ces <EOS>	0.6529942057256104
+Mais si ces ces ces et et et et et et de de de de de <EOS>	0.5856596027429395
+Je suis de de de de de de de de de de de de de de de <EOS>	0.3146660996956415
+Mais vous ne pas pas pas pas pas <EOS>	0.6865890479690392
+Ce que un une un un une une un <EOS>	0.5088274727401554
+Voici un de de de de vous de vous vous vous vous vous vous vous vous vous de de	0.3925305606936355
+Pour que je que je que je que de de de de de de de de de de <EOS>	0.23280367160341583
+Que ce que ? ? <EOS>	0.5408536609893481
+Au mon mon mon mon avec et et et avec et avec avec avec avec avec de <EOS>	0.6867472097992604
+Eh ce ce ce ce nous nous nous nous que que que que ce nous ce ce que <EOS>	0.31801166994331115
+Ce a a a de et et et et et et et et et et et et et et	0.43610260739616535
+Et les les nous nous nous nous nous nous nous les les de de nous nous de <EOS>	0.29839037022792486
+Alors donc a le de de de de de de de de de de et et et et <EOS>	0.46862274909776624
+Les peut peut être une de de de de de de de de de de de <PAD> <EOS>	0.09757988314632338
+Et ce ce que que ce ce qui que que qui qui qui de qui qui de de de	0.1717528367610406
+Comme que nous pouvons pas pas mais mais mais mais mais mais mais mais mais mais mais mais <EOS>	0.2918131970187565
+Nous voyons que nous nous nous nous nous nous nous nous nous nous nous nous nous nous que <EOS>	0.48640304576678556
+Merci. <EOS>	0.8408964152537145
+J'ai donc un une un un de dans dans dans dans dans de de <EOS>	0.5122071505880593
+Quand j'ai à le le le le le le le le le le le le le <PAD> <PAD> <PAD>	0.5695988432761473
+Mais mon dit dit dit a de de <EOS>	0.6865890479690392
+Mon : un un un un <EOS>	0
+Après : : vous que vous vous de que vous de que de que qu'ils qu'ils ils <EOS>	0.3501806396568502
+C'est n'est pas pas si je que je pas la <EOS>	0.5491004867761125
+Mais la première première c'était était était à <EOS>	0.6865890479690392
+C'est mon mon mon mon <EOS>	0.38753858253732953
+Mon mon de je de je de je je je je je je je de de de <EOS>	0
+Je suis de de de de de de de de de de de <EOS>	0.6147881529512643
+Mais les ne pas pas pas de <EOS>	0.5946035575013605
+Quelqu'un : : que pas <EOS>	0.5408536609893481
+Mon mon de que je mais mais mais mais pas pas pas je je pas <EOS>	0.5946035575013605
+Alors donc que je que je je je je de de <EOS>	0.5878560343277044
+Mon ne ne pas pas <EOS>	0.7598356856515925
+Je me que de de de de de de je que de je que que je de <EOS>	0.30264237107599956
+Mais c'est n'est pas <EOS>	0.5623413251903491
+Alors je donc raconter une de de <EOS>	0.5946035575013605
+La la de la de de de <EOS>	0
+Je me à de <EOS>	0.3769486629893372
+J'ai me à à de de de de de de de de de de de de de <EOS>	0.03255075302207852
+Des de de de de de de de de de de de de de de de de de <EOS>	0.3017070462644764
+Les les de de de de de <EOS>	0.5946035575013605
+La est est est est est de de la <EOS>	0.34983301252722515
+C'est n'est pas pas pas pas pas de de <EOS>	0
+Le chose mais mais mais mais est <EOS>	0.7071067811865476
+C'est un un un un <EOS>	0
+Mais quand le le le et et et et et et et à à à <EOS>	0.5807156200013266
+Je j'ai : : : de de de de de de <EOS>	0
+Alors il m'a mon et et et et et et et de et de de de <PAD> <PAD> <PAD>	0.6303647413359293
+La un est un un un un un un de de de <EOS>	0.5502659908318907
+Il a pas vite. <EOS>	0
+Par exemple, la j'ai de je de de que de de de que de de de de <EOS>	0.3381307292971254
+Il ne pas pas de de de de de de pas de de de de <EOS>	0.3141116890623593
+Une de de de de <EOS>	0.4608636396914616
+La la est de de est de <EOS>	0.7071067811865476
+C'est un un un de de de de de de <EOS>	0.5491004867761125
+Il y a des de de de de de de de de de <EOS>	0.5898019932366151
+La la est de de de de de de de de de <EOS>	0
+Mais je pense que que que que que que que que que que que que que que <EOS>	0
+Alors j'ai je j'ai de de de de <EOS>	0.408248290463863
+Ils sont donc des des des les les de de les les les les de de de <EOS>	0.21173265743344613
+Soit j'ai j'ai de de et et de de de de de de de et et et et <EOS>	0.027408333721303735
+Les les sont sont sont des de sont des de de <EOS>	0.6389431042462724
+Par les les les et et et et et et ils et et et et <EOS>	0.4697065314067379
+Alors si vous vous une une un un de de de de de de de un de de et	0.3288580454955831
+Des de de de de de de de de de de de de de de de de de <EOS>	0.26845899024598135
+Par exemple, j'ai j'ai j'ai j'ai de j'ai je que de que de de de de <EOS>	0.1719142833102357
+En les a a a a a le le <EOS>	0
+Et les a gens à de gens de de à de à à à de <PAD> <PAD> <PAD> <PAD>	0.5673835037021759
+Je sais dire, je pas de de de je de de de de <EOS>	0.35831291876413535
+La que que que que c'est que que que c'est pas pas ce que <EOS>	0.49473859088183875
+Je n'ai pas pas de de de de de de de de de de <EOS>	0.47536173522195396
+Ces images des de de nous nous de de nous nous nous nous de de de de <EOS>	0.21537227035630457
+Même si ce ne peut peut pas peut le <EOS>	0.668740304976422
+C'est une une je je de de de de de de de de et de et de <EOS>	0.5200672613758193
+Alors vous pouvez avec avec avec <EOS>	0.6147881529512643
+Merci. <EOS>	0.8408964152537145
+Merci. <EOS>	0.8408964152537145
+Merci. <EOS>	0.8408964152537145
+Alors j'ai j'ai j'ai j'ai j'ai allé et et et et de de et de et de et <EOS>	0.38804418748173897
+Elle a été de de et et et et et et et et et de et de et <EOS>	0.48640304576678556
+Et je je je je que je je je avec avec de <EOS>	0.42631962149316155
+Alors j'ai un j'ai un un un un un et et de et de et de et de <EOS>	0.4845112794317461
+Quand je suis le ans, le le le le le le de de et et de de et <EOS>	0.23104146363340142
+Et je je <EOS>	0.6548907866815301
+Je une de de de de de de de de de un de de de <EOS>	0.6181685596984614
+Tous les de <EOS>	0.5506953149031838
+Et je me je à de de de de de de de de de de de <EOS>	0.13715437412476647
+Donc, ce qui que de de de de de de de de de de <EOS>	0.6042750794713536
+Je suis une de et et et je et je et et de et de de de de <EOS>	0.470103263769908
+Et je je je je je de <EOS>	0
+Je ne pas pas pas de de <EOS>	0.48109772909788073
+Je ne pas pas je pas je pas <EOS>	0.3112878027628485
+Je suis <EOS>	0.39011264866539486
+Je ne pas pas pas je pas je pas pas pas <EOS>	0.41722614486115056
+Je ne sais que que pas pas <EOS>	0.4630777161991027
+Je ne jamais pas pas <EOS>	0.7598356856515925
+Mais je de que que que que que que que je que que que que que de de <EOS>	0.46862274909776624
+Très, les <EOS>	0
+C'est est et et et et et <EOS>	0.7071067811865476
+Nous avons tous que les de de <EOS>	0.48109772909788073
+Nous savons pas pas de nous nous nous nous nous <EOS>	0
+Nous avons aussi le de de de de de de de de de de de de <EOS>	0.4924790605054523
+Et je me je que je je ne pas pas un un un de ne un ne <EOS>	0.4402274324685413
+Pour nous nous nous nous que nous nous le de de de la que et et de <EOS>	0.4402274324685413
+En fait, je que nous nous que nous nous pas pas nous nous nous nous nous nous <EOS>	0.18516622461957272
+Et bien ne ne pas pas pas <EOS>	0.5946035575013605
+Les ne ne pas pas de de de <EOS>	0.32689967585126034
+Pas <EOS>	0.510029457493824
+Il y a des de de nous nous nous nous nous nous parce nous parce que nous <EOS>	0.1608820289357763
+Il y a que je pas je que je je je que je que je que je que <EOS>	0.2918131970187565
+La est de de de de de de de de de de de de de de de de <EOS>	0.2318982287768425
+Et nous avons nous que nous nous les de de de de <EOS>	0
+Nous avons une une une une une une un un <EOS>	0
+Nous avons une une une une une un <EOS>	0.4919625503668659
+Nous avons une une de de <EOS>	0
+Nous n’étions a <EOS>	0
+Je pense que que ont de que de de de de de de de <EOS>	0.41602390756021224
+Je ne sais pas pas pas je pas pas c'est pas de <EOS>	0.1981705142980857
+Pour les a avec et et et et et et et et et et <EOS>	0.6042750794713536
+La chose est très chose chose de de de de de de de de de de de de <EOS>	0.40901457755377846
+Je crois que pas pas que c'est c'est de de de ce que que de de de <EOS>	0.22918824693555975
+Quand nous nous nous nous nous nous nous <EOS>	0.5773502691896257
+Nous avons que nous nous et et et et et et et et et et et et et <EOS>	0.43610260739616535
+Pour la de de de de de de de de de de de de de et et et <EOS>	0.4378053628660951
+Après : : : que c'est nous nous nous nous nous nous nous nous <EOS>	0.5852636722840082
+En la la la la la de de de de de de de de de de de de de	0.02036363673612296
+Il m'a que que que que que que que que que de la de la de la la <EOS>	0
+Et c'est m'a est le le le le le le le le le le le et et de et	0.22000868600418652
+Maintenant, nous nous nous nous nous et nous nous <EOS>	0.5623413251903491
+Vous savez, vous que vous vous à à de vous de de de de de <PAD> <PAD> <PAD> <EOS>	0.5695988432761473
+Mais ce ne pas pas pas pas pas la la pas la de la <EOS>	0.5852636722840082
+Regardez est est est <EOS>	0.668740304976422
+C'est un un un un un un un <EOS>	0.5773502691896257
+Et ce ce ce ce <EOS>	0
+Les Dawesar: : la de <EOS>	0
+Les Dawesar: : et de <EOS>	0
+Le images de les de de de de de de de de de de de <EOS>	0.5
+Les Dawesar: : de de de <EOS>	0
+C'est est c'est c'est de de la <EOS>	0.5946035575013605
+Le les a de de de de de de de de de de de <EOS>	0
+Quand quand a dit et et et et et et et et et de de de et de et	0.42180153784321656
+Il ne sais pas pas que je Je mais mais mais mais ne mais mais ne que <EOS>	0.40544012689158343
+Il y a a de de de de de <EOS>	0.34107725495137897
+Quand nous nous nous nous nous nous nous nous nous nous nous nous et nous nous et nous <EOS>	0.15220769076152843
+Les images de de de de de de de de de de <EOS>	0.4876485015882737
+Il a dit nous nous nous nous nous nous nous nous nous nous nous nous nous de <EOS>	0.3302232277439296
+Est-ce que nous de et et et et et <EOS>	0.668740304976422
+Je pense que nous nous nous que nous nous nous nous nous nous nous nous <EOS>	0.35930411196308426
+Et nous nous les de de de de de de de de <EOS>	0.5266403878479265
+Est-ce nous nous nous nous nous et de de et et et et et et de <EOS>	0.5522027108670324
+Est-ce que nous nous nous nous nous nous nous nous nous nous ? ? <EOS>	0.6042750794713536
+Regardez ce ce passe-t-il <EOS>	0.4482700320176827
+Une qui de de de de de de de de de de de de de de de <PAD> <EOS>	0.43111823356294576
+Et ce raison a que que que a que que que pas que que que il il a <EOS>	0.598822469895797
+Parce que je le de de de de de <EOS>	0.668740304976422
+Le contraire est de de de de <EOS>	0.5946035575013605
+Mais il le -- -- que -- -- le de de de de <EOS>	0.3336118221483976
+Il m'a dit tard, de elle de de de de de de de de de de <EOS>	0
+La : : le est de de de de de de de <EOS>	0.6930977286178778
+La chose est chose chose chose <EOS>	0
+La que nous nous nous nous nous nous nous nous nous nous nous nous nous mais mais <EOS>	0.5773502691896257
+En fait, nous nous nous nous nous nous nous nous nous nous nous de <EOS>	0.392814650900513
+Et ce que que nous nous que que que que que nous nous nous nous que que que <EOS>	0.38804418748173897
+Les les les les les les les les les les les les les <EOS>	0
+Je je suis de je je je mais je mais je mais je je je je de <EOS>	0.27081629257272843
+Une a a a a a a a a de de de de de de de de de <EOS>	0.31801166994331115
+Pour la un de <EOS>	0.668740304976422
+Et elle a regardé regardé et et et et et et et et et et et et de <EOS>	0.35469140112086484
+Parce que je que que <EOS>	0.6431870218238024
+Ce que que que que que pas pas la <EOS>	0
+C'est est que chose de <EOS>	0
+C'est est que chose chose de de de de <EOS>	0.5623413251903491
+Et bien est un de de de <EOS>	0
+Elle est de de de de de et et et de <EOS>	0.6389431042462724
+Cette les de de de de de de de de de de et et et et et et <EOS>	0.08629690928111454
+Au la est la est de la la <EOS>	0
+Maintenant, vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous <EOS>	0.1691031920917337
+C'est la la la la <EOS>	0.6389431042462724
+Mais ce ne pas pas pas le que nous nous ne être <EOS>	0.5789320481820723
+Je ne pas pas je pas je je je je que pas je pas le <EOS>	0.2950806238875851
+Et c'est nous nous nous nous nous nous nous nous <EOS>	0.4063798282013443
+Nous avons le le de <EOS>	0.7598356856515925
+Je pense que que nous nous de de de de nous nous nous nous nous nous de <EOS>	0.5408536609893481
+Pour ce que je que que que nous nous nous ne nous <EOS>	0.6417815203955494
+Alors ce ce ce ce ce ce ce qui qui qui ce de qui ils de de de <EOS>	0.5695988432761473
+Ici le a à et et et de de de de <EOS>	0.6389431042462724
+Quand les les ont ils ils ils ils ils ils ils ils ils ils de de de <EOS>	0.4854917717073234
+Mais il de de de de de de de de de de de de de de de de <EOS>	0.36133101815226054
+C'est n'est pas un <EOS>	0
+Alors donc axactement de de de de de de et et et et et et et et <EOS>	0.46230595512422085
+Mais ce chose que chose de de de de de de de de de de de de de <EOS>	0.11926847199610938
+Nous avons une de de de <EOS>	0.7311104457090247
+Il y a il a il il il pas pas il il pas pas il qui pas pas <EOS>	0.5106948710219815
+C'est le de de nous nous nous nous nous nous nous nous nous nous nous nous nous <EOS>	0.2634994362201052
+Ce ne pas pas pas de de de de de de de de <EOS>	0.4962064288956292
+Vous savez, que est de de de de de de <EOS>	0.7226568811456053
+Les Gates sont sont sont sont sont <EOS>	0.5946035575013605
+La la est est que que la est la la la <EOS>	0
+Ce ça être ? <EOS>	0.5475182535069453
+Ce que nous nous une nous nous nous nous nous nous nous un nous un un de <EOS>	0.3290709729060593
+Eh nous nous nous nous nous nous nous nous nous ? <EOS>	0.5985529678206387
+Nous pouvons voir avec <EOS>	0
+Mais je les que de <EOS>	0.6389431042462724
+Alors nous nous nous nous nous nous nous nous nous nous nous nous nous de <EOS>	0.4697065314067379
+Voix d'homme : : de de <EOS>	0
+Combien : que à de à à à à ? <EOS>	0.5491004867761125
+Et il a a a de de de de de de de de de de de <EOS>	0.4909136024426773
+Nous avons tous des <EOS>	0.668740304976422
+Merci. <EOS>	0.8408964152537145
+J'étais un un de ma un dans un dans ma de un avec avec mes mes mes <EOS>	0.372730318315106
+C'était un un <EOS>	0.7071067811865476
+Le était était <EOS>	0.7071067811865476
+La limpide si nous si nous si si si nous et si et et et et et et <EOS>	0.15739901526932998
+Nous avons besoin de de <EOS>	0.6389431042462724
+C'était un un un un un un un un un un un un un un un un un <EOS>	0.30603689509300896
+Pour un un un une et et un et un et un et et et et et et <EOS>	0.3724053147374332
+Et j'étais j'étais je et et et et et et <EOS>	0.6529942057256104
+Les étudiants étaient étaient étaient de de de de de de de de de qu'ils de qu'ils <EOS>	0.6044142795544439
+C'est un à à à à à à <EOS>	0.5773502691896257
+Qui nous ne pas pas ? ? <EOS>	0.7825422900366437
+Si on vous les les les les les les les les les les les les les les <EOS>	0.4344371253135792
+Qui la la de de la la la dans la la la <EOS>	0.5266403878479265
+Dans les de de de de de de de de de de de de de de de de <EOS>	0.43610260739616535
+Je veux que de de <EOS>	0.5408536609893481
+Je n'ai que à de de <EOS>	0.5494128986804837
+Ce que que être à la la à la la <EOS>	0.5962494769762219
+Alors je donc commencé avec avec de <EOS>	0.7420884818558928
+Je veux les dans dans dans et et et et et et et et et et et et <EOS>	0.42834415470382536
+Je vais parler de <EOS>	0
+Alors donc donc donc de de de <EOS>	0.5946035575013605
+Je n'ai pas le dans dans dans dans dans dans la la <EOS>	0.6930977286178778
+Et j'ai suis à j'ai et et et et la <EOS>	0.6529942057256104
+Il a un un un un un un de <EOS>	0.668740304976422
+Et duperie le le de <EOS>	0.5444460596606694
+C'est n'est pas de de et et que et et et et et ne et vous vous et <EOS>	0.28407168707430386
+Le premier de un un un un une <EOS>	0
+Je pense que gens gens gens gens gens gens gens gens gens gens de gens gens gens <EOS>	0.29446564457869806
+Puis il a a <EOS>	0.6511126026643229
+En la de de de de de de de de de de de de de de de de <EOS>	0.38804418748173897
+Vous pouvez le de de de de et et et et de <EOS>	0.40250475663363666
+Il m'a que que que que que que de que de ce ce pas pas <EOS>	0.5
+C'est est très de de <EOS>	0.6389431042462724
+Et la de est de de de de de de de de de de de de de <EOS>	0.5773502691896257
+Je suis de de de de de <EOS>	0
+Quand vous vous vous un un un un un un un un et un et et et et <EOS>	0.20478117591637685
+Il ne pas pas <EOS>	0.668740304976422
+C'est un un de de de de de <EOS>	0.5497775311418521
+Il a a de de <EOS>	0
+Et il y a a <EOS>	0.43012508513132625
+Vous savez, vous que vous vous vous vous et et et et et et et et et et <EOS>	0.038716962648394866
+Je n'avais que que que je parce que que parce mais mais que mais que mais mais que <EOS>	0.23177139037605513
+Ils ont des des de de de <EOS>	0.5247357977607321
+Si ne pas pas pas pas de de de de de de de de de de de <EOS>	0.3913335423207534
+Nous avons les de de de de de de de et et et de de de <EOS>	0.5432852079582625
+Les timbre, de <EOS>	0
+Si nous ne pas pas pas nous nous nous nous nous nous nous nous nous nous nous ne <EOS>	0.11946561062132881
+Je ne pas pas pas je pas je je pas de pas <EOS>	0.4001601601922499
+Et ce nous nous nous nous nous nous nous nous nous nous <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>	0.5695988432761473
+Je veux que nous nous nous nous nous nous nous nous nous nous nous nous nous nous <EOS>	0.5773502691896257
+Nous avons que nous de de de de de de de de nous nous de et ne <EOS>	0.6867472097992604
+Nous avons nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous <EOS>	0.41643730821613023
+Je vais vous vous montrer une de de de de de de de de de de de <EOS>	0.27768352844338134
+Pour je que je que de de <EOS>	0.5946035575013605
+Ils sont des des de de de <EOS>	0.33065331125965697
+Ils ont un un de <EOS>	0.6025286104785453
+Vous savez, vous vous à <EOS>	0.6025286104785453
+Et nos nous nous nos nos <EOS>	0.5494128986804837
+Ils ont un un de de de <EOS>	0.7071067811865476
+Les algues ont nos de de de de de de de de de de nos nos de <EOS>	0.2168027923508347
+Sur première j'ai j'ai sur sur sur sur sur sur sur de de de de de de <EOS>	0.10798989240450621
+Et je je je je mais je mais mais mais mais mais mais mais mais mais mais <EOS>	0.4854917717073234
+Et il a il et et et et et et et il de de de <EOS>	0.3542333701226131
+Nous allons être <EOS>	0
+C'était a j'ai que j'ai de j'ai et et et et et et et et et et et et	0.31199732250224643
+Il a a nous et et et et et et et nous nous nous et de <EOS>	0.34823528327578546
+Je veux que que ce à <EOS>	0.5169731539571706
+Nous devons nous <EOS>	0
+Mais nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous <PAD> <EOS>	0.31801166994331115
+Nous nous nous que nous nous nous que et nous nous nous nous nous nous et nous et <EOS>	0.018755330293091087
+La plupart de nous nous nous nous nous nous nous nous nous nous nous nous de de <EOS>	0.4109599123350153
+C'est un un un <EOS>	0.668740304976422
+Donc le de de de de de votre votre votre votre votre votre votre votre votre vous vous vous	0.33563283459700316
+Regardez vais je à <EOS>	0
+Les : : pas ? <EOS>	0.6389431042462724
+Pas les pas <EOS>	0.7071067811865476
+Quelqu'un : : La ? ? <EOS>	0.6147881529512643
+Ma ne je pas pas et et et je mais pas je je pas je je pas <EOS>	0.3575297164449809
+Il a a mon mon ma de mon ma de de de de de de de de de <EOS>	0.29693621041385787
+Eh bien, je je que je que que que que que que que je <EOS>	0.29224676318081305
+<speaker>Mark <EOS>	0
+C'est la la de de de que de de de <EOS>	0.5491004867761125
+Non, n'est pas pas <EOS>	0.4604061366599648
+Ce ne pas pas pas pas pas pas pas <EOS>	0.7195907128571539
+BC ne pas pas pas pas je je et et je et et et et et je et <EOS>	0.18079971604509984
+Il m'a que que à ce ce ce ce ce ce de de <EOS>	0.5329462628216854
+Maintenant, je je je je je je je et et et je et et et je que je <EOS>	0.10889270363547096
+Prenons un un <EOS>	0
+C'est ce que que dans la que le le le le le vous vous vous et et et <EOS>	0.5389926954750228
+La la est la de de de la <EOS>	0
+Et je ne je vous vous pas pas pas pas pas pas pas de <EOS>	0.3216094349518416
+Ou je je je je et et et et et et de de de de <EOS>	0.43502125569526856
+En fait, je je un je un un un un un <EOS>	0.49432603195143127
+Je suis que la la et et et et je et je je je la je <EOS>	0.4321219739263302
+Si ne ne pas pas pas pas pas pas pas pas pas <EOS>	0
+Le : : est de de de de <EOS>	0
+J'ai me de ma de de de de de de ma de ma de <PAD> <EOS>	0.5
+Je suis que de la de de de de de de de de de je de de <EOS>	0.6389431042462724
+Une qui de beaucoup beaucoup de de beaucoup beaucoup mais de beaucoup mais de de de <EOS>	0.429379141889796
+Mon : : : la de ou ou ou ou ou de ou <EOS>	0.44815260192961937
+La si je je je je je je je de <EOS>	0.5444358245099123
+Si mon de de mon mon la mon mon la de de de de de de de de <EOS>	0.18787414376068837
+Mon : je je je je je je je je je je je je je je de <EOS>	0.4109599123350153
+Une y a a dans a dans a a dans dans dans dans dans dans dans dans <EOS>	0.4854917717073234
+Ma j'ai un et je et et et et et et et et et et et et et et	0.3724053147374332
+En fait, ma dans dans dans gens dans et et et et et et que <PAD> <EOS>	0.5837979488764491
+C'est ce ce que je et et et et et et et <EOS>	0.4181117364345025
+Je pense que pas pas pas pas nous ne nous pas pas pas <EOS>	0.7730551756939454
+Elle a que que de et et et et et de de de de de de de et <EOS>	0.3724053147374332
+La que je que je je que je je que que <EOS>	0
+Ils voulaient que que de de de de de que je je de de de <EOS>	0.33437015248821106
+Je dois de de de de de de de de de de de de de de <PAD> <PAD> <PAD>	0.35469140112086484
+Je suis de de <EOS>	0
+La : : de de <EOS>	0
+Ma ne pas pas pas de pas de pas pas pas pas de pas de <EOS>	0.6240195441936915
+Je veux que que que je que je que je que que que que vous <EOS>	0.2666354429712649
+Et je je que nous nous nous et et et et et et et et et et et <EOS>	0.22403741610005162
+Et quand mon de mes et et et et et et et de de de de de <EOS>	0.5773502691896257
+Je fait que parce dans parce parce parce un parce un parce de parce que parce de parce <EOS>	0.2266276248816252
+Pour mon de de de de de de de de de de de de de de de de <EOS>	0.07708682078602436
+Mais nous nous nous nous une de <EOS>	0.3385609554882432
+Je me pas très très très très très très je mais mais mais je mais mais <PAD> <PAD> <PAD>	0.5487773527367232
+Et je je je je je <EOS>	0.6147881529512643
+Ma que que je que je que je que je je que je que que que je que <EOS>	0.15499487028489248
+Je me que de de de de de et et et et et et et et et et et	0.3724053147374332
+J'ai de de de de de de de de <EOS>	0.5623413251903491
+Tout ça <EOS>	0.5444460596606694
+Je j'ai le dans dans dans dans ma ma de ma ma de ma de ma <PAD> <PAD> <PAD>	0.4378053628660951
+Chaque : : j'ai je je je un un de un de un de <EOS>	0.6289067444250225
+Mais je ne je pas pas <EOS>	0.4671379777282001
+Après : : le le de de de de de de de de de de de de <EOS>	0.4109599123350153
+C'est un un un un un <EOS>	0.34718201116725705
+J'étais un un un un <EOS>	0
+Alors donc donc à de de de de de de <EOS>	0.3485340766146352
+Je suis de <EOS>	0
+La la est la de la la <EOS>	0
+Je vais que je de de <EOS>	0.4004970149398301
+Je ne pas pas pas. <EOS>	0.7598356856515925
+La la la de de <EOS>	0
+J'ai me de de de de de de de de de de de de de de de <EOS>	0.16842357369809585
+Je ne je pas que je mais je que je que ne pas je que <EOS>	0.6240195441936915
+C'est un très j'ai à j'ai j'ai et et et et et et et et et et et <EOS>	0.5403952143993433
+La : est <EOS>	0
+Au un de de de de de de de de de de de de de de <EOS>	0.4924790605054523
+Sur : je suis un et et et et et et et et et et et et de et	0.23522623946350044
+Mon était était <EOS>	0.7071067811865476
+Et je je que que que à de de de de de de de de de de <EOS>	0.515023905444988
+Mais je je je de de de de de de de de de de de de de de <EOS>	0.3017070462644764
+Ils ont été de de <EOS>	0.5408536609893481
+Mais il a que à de de <EOS>	0.42456725576936255
+Je pense que ont dans dans de de de de de de de et et et de de <EOS>	0.40901457755377846
+Je suis une un un <EOS>	0.5081327481546147
+Ma mon de mes j'ai de de de de de de de et de et mes mes mes <EOS>	0.1329262530357619
+J'ai commencé le dans dans le le le le le de de de de et et de et <EOS>	0.5106948710219815
+Certains personnes je gens je gens je je je je de <EOS>	0.5985529678206387
+Je n'ai pas pas de de je de je je de de je de de ne ne de <EOS>	0.194895731325594
+En mon j'ai de j'ai et et et et et et et et et et et et et et	0.3252295784199802
+Notre première que était que de de de de de de de de de de de de de <EOS>	0.42016102601603045
+Il y a a que de qui que qui qui que pas pas de pas <EOS>	0.6181685596984614
+Mon le a la la la <EOS>	0.5329462628216854
+Je dois un une un de de de de de de de de de de <EOS>	0.4697065314067379
+Je suis allé avec à et et je et et je et je et et je <EOS>	0.3066416845334166
+Alors je je je et et et et et et et et je et et je à <EOS>	0.23834859760813176
+Et elle a elle de de de de de de de de <EOS>	0.5266403878479265
+Et nous avons les <EOS>	0.3670124608961283
+J'ai donc décidé de de de de de de de de de de de de de de de <EOS>	0.21172422751094758
+J'avais mon de mes je et et et et et je et et et et je et et et	0.34772504705825924
+Mais quand il a il a et et et et et et et et et et et et et	0.33501407711316367
+Un y a que que je que je que je je que que je que je je que <EOS>	0.5382934564372697
+Les ne ne pas pas pas pas mais mais mais mais mais mais mais mais mais mais mais <EOS>	0.5980456132683322
+Quand la le le le le le le est le de la <EOS>	0.6262844962765469
+Je les les les les et et et et et et les les de les <EOS>	0.5124797359336637
+C'est ça très <EOS>	0
+Et mon mon de de de de <EOS>	0.5946035575013605
+Que ça ça ? <EOS>	0.668740304976422
+Nous avons que que nous <PAD> <EOS>	0
+Un que je je ma je ma je ma de ma de de de de de <EOS>	0.5820272706551887
+Ce est est ça est <EOS>	0.45782273986766686
+Si vous ne pas pas pas pas un pas un un pas de de de de <EOS>	0.5837979488764491
+Les les sont sont de de de de de de de de de de <EOS>	0.6042750794713536
+Les les les les les les les les les les les les les les les les les les <EOS>	0.51268887076046
+Le chose que je je mais je mais mais je mais je que je que je <EOS>	0.4141238765665521
+Même je je je je ne pas je je je pas pas pas pas pas <EOS>	0.35930411196308426
+Je peux que les de de de de de de de de de de de de de de <EOS>	0.51268887076046
+C'est si si si si si si si si si si si si de <EOS>	0.5081327481546147
+Ou vous <EOS>	0.7598356856515925
+Nous devons aussi que de de de de de <EOS>	0
+Mon mère de la la à à à à à <EOS>	0.5491004867761125
+Je suis aussi de de de de de de de de de de de et et et et <EOS>	0.6773709971213142
+J'ai me avec avec avec avec avec de et et et et et de de de de et <EOS>	0.6773709971213142
+Je suis à une dans un de dans dans dans de <EOS>	0.2559651247709894
+J'ai eu de de de de de de de de de de <EOS>	0.42631962149316155
+Et je me que il y a a a de de de de de de de de <EOS>	0.3525877739588073
+Mais quand -- -- -- -- je -- -- -- -- -- -- -- -- -- -- -- le	0.11926847199610938
+C'est ce que que que quand que que quand je que que je que et que que que <EOS>	0.5382934564372697
+Ma : et je et et et et et et je la la <EOS>	0.6147881529512643
+Alors nous nous nous nous <EOS>	0.38753858253732953
+Sur : de de de de de de de de de de de de de et et et <EOS>	0.48640304576678556
+Soit les et et et et et et et et et et et de et et et et <EOS>	0.51268887076046
+Le était de de la le de de de de de de la <EOS>	0.5809334108283256
+Les les les des des de de de de de de de de de de de de de <EOS>	0.40901457755377846
+Les : : a que de gens de de de de et et et et et et de de	0.64264183387712
+Les gens ont des de de de de la la <EOS>	0.5491004867761125
+Mais il a aussi aussi de de la de de de de de la <EOS>	0.5653035577259873
+La est de de de la de de de de de de de de de de de de <EOS>	0.40901457755377846
+Alors nous nous <EOS>	0
+Ils ne pas pas de de de mais mais mais mais mais mais mais mais mais mais <EOS>	0.21385529514584425
+Elle y a très très très très très très très parce très très parce très de de <EOS>	0.35250657096759425
+Mais la la de de de de de de de de de de de de <EOS>	0.4697065314067379
+Pour les a un été de un de de qui de de de de de de de <EOS>	0.4887164517296947
+Au la de de de de de de de de de de de de de de <EOS>	0.5856596027429395
+Ils ne pas pas un mais un de de <EOS>	0.4604061366599648
+Chacun de de de de de de de de de de de de <EOS>	0.481334461755719
+La premier de de de de et et de de de de de de de de de et <EOS>	0.5487773527367232
+Dans le de de de de de de de de de de de de de de <EOS>	0
+Le que que que à ce ce ce dans dans dans ce de de <EOS>	0.5081327481546147
+Ou d'abord, de d'entre de de de de de de de de de de de de de ou <EOS>	0.22000868600418652
+Les que sont sont pas de de de de de de <EOS>	0
+Il ne pas pas de de de de de de de de de de et et et et <EOS>	0.0853105908110721
+Je suivrai la la de de de de de <EOS>	0.5623413251903491
+J'avais me que je que et et et et et je et et et et et et et <EOS>	0.48640304576678556
+J'ai j'ai de de de de de de de mais mais mais de de je mais de <EOS>	0.3665957917178929
+Nous allons donc un de de de de de de de de de de <EOS>	0.32119951353258464
+Vous voulez tous le <EOS>	0.5475182535069453
+Nous avons le le le le le de le <EOS>	0
+Il a que ces ces ces de de de et et de et et de et et et <EOS>	0.18787414376068837
+Il y a des de de de de de de <EOS>	0.7090641203367742
+Ils ont tous des et et et <EOS>	0.7071067811865476
+Mais ils ne pas pas pas pas de <EOS>	0.730633242658635
+Que ? <EOS>	0.5444460596606694
+Donc donc a une un un un un un qui qui qui qui qui qui qui qui qui <EOS>	0.13184149475297138
+Les les a les les de les de de de de de de de de de de de <EOS>	0.5980456132683322
+On que les les et et et et et et et et et et de et et et et	0.21172422751094758
+Mais je pense que que que c'est pas <EOS>	0.41105458056789007
+Il a que avec de avec de avec de <EOS>	0
+Même les de a ans, de de de de de de de de de de de de <EOS>	0.3501806396568502
+Les les nous nous nous nous les les les les les les les les les les nous les <EOS>	0.08889314299450844
+Non, nous nous pas pas nous nous nous nous nous nous nous ne pas pas pas pas pas <EOS>	0.47897362544357464
+Les nous nous nous nous nous nous nous nous nous <EOS>	0
+Nous allons que un une une une une <EOS>	0
+La la de de de de de <EOS>	0.7071067811865476
+Mais ce ce pas pas pas de de de de et et et et et de de de <EOS>	0.5695988432761473
+Nous devons nous que nous nous nous nous nous nous nous nous nous nous nous nous nous <EOS>	0.437322695781743
+Nous ne nous pas pas pas et et et et nous pas pas pas pas <EOS>	0.5946035575013605
+Notre de de de de de de de de de de de de de de de de de <EOS>	0.3252295784199802
+Leur est est et et et et et et et et et et et de de de <EOS>	0.4919625503668659
+Nous avons tous ces ces de de de de de de de <EOS>	0
+Maintenant, les les les les et et et et et de et de et de et et <EOS>	0.15882481735499007
+Mais nous nous aussi que nous nous de nous de de nous nous qui de de qui que <EOS>	0.45967013419737907
+Malheureusement, : que ne pas pas à de de <EOS>	0.2860279852449314
+La la vous le vous vous vous vous vous vous de de de <EOS>	0
+Mais nous nous des de de nous nous nous de de de nous nous de de de de <EOS>	0.5206412525067085
+Les peut peut peut de de et et et et et et et et et et et et <EOS>	0.3075831447903366
+Malheureusement, que nous nous nous pas nous nous nous nous pas pas pas pas nous pas <EOS>	0.5856596027429395
+Le président nous nous nous nous nous nous nous mais mais mais mais mais mais mais mais mais <EOS>	0.04850177541293076
+Les de sont <EOS>	0.6548907866815301
+Ce ne pas pas pas pas nous nous nous nous nous pas pas <EOS>	0.4004970149398301
+Nous pensons pas pas de de de de de de de de de et et et et et <EOS>	0.10735207584571214
+La première de a de de de de de de de de de de de de de <EOS>	0.4653766328670584
+Mais c'est est un un de de <EOS>	0.48109772909788073
+C'est n'est pas pas <EOS>	0.668740304976422
+Il n'y a pas de de de de pas de de ne pas pas de ne de <EOS>	0.05013319279062285
+La plupart de de de de de de de de <EOS>	0
+C'était était était <EOS>	0
+Et bien ne pas pas une une une de <EOS>	0.7195907128571539
+Nous avons tous les les les de et et et et et et les les <EOS>	0.2798263237576258
+Malheureusement, nous nous pas pas pas nous nous nous nous pas pas pas <EOS>	0.6147881529512643
+Merci beaucoup. <EOS>	0.7598356856515925
+Je vais vous votre votre votre votre <EOS>	0.7071067811865476
+Imaginez la votre votre votre votre votre votre <EOS>	0.6865890479690392
+Je vais vous vous vous vous vous vous vous de de de de de <PAD> <PAD> <PAD> <PAD> <PAD>	0.6303647413359293
+Ces de de de de de de de de <EOS>	0.5088274727401554
+Ils ont des des des de ils de ils et ils et ils et et ils <EOS>	0.34823528327578546
+Je veux vous vous vous vous vous <EOS>	0.7071067811865476
+Ils ont ils ils ils ils ils ils ils ils ils ils <EOS>	0.6930977286178778
+Et ils peuvent peuvent de de de de de de <EOS>	0.4063798282013443
+Les : : en a de de de de de de <EOS>	0.38753858253732953
+La de de de de de de et et et de et et et et et et et <EOS>	0.4445962170753971
+Le gauche de de de de <EOS>	0
+Pour : : de de de de de de de de de de de <EOS>	0.5081327481546147
+C'est un un <EOS>	0.49760938992507125
+Vous pouvez pouvez voir le de et vous vous vous <EOS>	0.43668354428478123
+Vous pouvez pouvez le le le le le vous vous vous vous vous vous de de <EOS>	0.34823528327578546
+Imaginez de de de de de de votre de <EOS>	0.5623413251903491
+Dans les de de de et et et et la la <EOS>	0.537284965911771
+Elle est de et et et et de de et de et de et et et et et <EOS>	0.30603689509300896
+Et puis vous votre votre <EOS>	0.6389431042462724
+Dans le de de de et et et et et et de et et de et et et <EOS>	0.2579742860700968
+Regardez votre votre <EOS>	0
+Je veux vous que une un un un un une de de de de de de de <EOS>	0.5773502691896257
+C'est est la de de de de <EOS>	0.5247357977607321
+Et je une une je une un un un un un un une une une une une <EOS>	0.15432097513965537
+Ceci un de de de de de de de de de de de de de de de de <EOS>	0.5695988432761473
+Ils ont des des de de de de de de de de <EOS>	0.6417815203955494
+Ils ont été de de de de de de de de de <EOS>	0.6930977286178778
+Ils ont de de de de de de de de <EOS>	0.5491004867761125
+Ils ont de de de de de de de de de de de de de de de <PAD> <EOS>	0.5403952143993433
+Je suis que c'est <EOS>	0.5475182535069453
+Ces sont sont personnes de de de <EOS>	0.6240195441936915
+Et je rappelle à à une de <EOS>	0.7825422900366437
+C'est un a a a a a a a a a a de de de de de de <EOS>	0.45441639860867034
+Et je me vous vous que vous que vous vous vous que que <EOS>	0.3336118221483976
+Et il a pas pas pas pas pas pas <EOS>	0.668740304976422
+En fait, je un un un <EOS>	0.40495158902656925
+Le qui qui que que que que que dans pour même un de <EOS>	0.5329462628216854
+Nous avons tous ces ces ces de de de de de de de de de de de de <EOS>	0.16407453425949076
+Et je je que que que que ce ce ce de de <EOS>	0.2880215692794181
+Et nous avons les les de de de de de de de de et et et et et <EOS>	0.17487076888802516
+Comment vous vous vous de ? <EOS>	0
+Je suis que la de de la <EOS>	0
+Chris Anderson : : : : une une de de de de de de de de <PAD> <PAD> <EOS>	0.3681489602129511
+Cela pourrait que que que que vous vous vous vous vous <EOS>	0.537284965911771
+Je me dire, je que je mais je mais je mais pas je pas je pas <EOS>	0.6481388934544839
+Je veux vous vous que vous vous vous que <EOS>	0.34935537008915557
+Et c'était était un de de de était de <EOS>	0.5088274727401554
+Je j'ai que j'ai de de de de de de de de de de de de de de <EOS>	0.20954370415632903
+Je suis une de de de de <EOS>	0.5946035575013605
+C'est un un un <EOS>	0.5475182535069453
+Il a très une de de de de de de de de de de <EOS>	0.31239399369202553
+DH : : que chose chose chose chose chose pas pas que pas de de de de de <EOS>	0.5403952143993433
+Et il a que que était était et était et et et et et et et et et <EOS>	0.5382934564372697
+La première je que de de <EOS>	0
+C'est est la de <EOS>	0.668740304976422
+Il a la la la la la la la la la de de la la <EOS>	0.6580370064762462
+Nous avons découvert en le de de de de de de de de de de de de de <EOS>	0.26133704386418893
+Et je suis une une et et et et et et et et et et de de et <EOS>	0.34172577849007457
+Et je je un un une une une <EOS>	0.6865890479690392
+Une que que que de que de que de que de de que de de de de <EOS>	0.3467847604369132
+Il y a des personnes dans personnes dans dans dans dans dans de <EOS>	0.5169731539571706
+Au les nous nous nous une dans un un un de dans dans dans dans dans de <EOS>	0.11606942277403821
+Nous nous les les les les les les les les de de de <EOS>	0.5169731539571706
+Ils ont que des et et nous nous nous nous nous nous nous nous <EOS>	0.7186082239261684
+La : : nous nous nous nous nous nous nous nous nous nous <EOS>	0.44815260192961937
+Une qui de des qui de de de de de de de de de de ce de de <EOS>	0.3028850564726945
+Il n'est pas pas pas pas pas la pas de de de pas de <EOS>	0.5288454269158854
+Et je je je que que ces ces ces ces ces <EOS>	0.7071067811865476
+Une un de une une de de de un de de de de un de de de de <EOS>	0.5784339627848556
+Ils voulaient des ces ces ces de que de de de de de de de de de <EOS>	0.2834458481265108
+La était était <EOS>	0.7071067811865476
+Ils ont les des de de de <EOS>	0
+Ils ont pas de et et et et et et et et et et de <EOS>	0.6598203338556885
+Il y a a de et et et et et et et et et et et et et <EOS>	0.2282312664130478
+Quand ils ont ont de les de de de de de de de de de et et de <EOS>	0.12949597793518475
+Bien sûr, : : vous de de de de de de de de de de de de de <EOS>	0
+Pour bien, que nous nous nous nous nous nous nous nous <EOS>	0.45782273986766686
+Le est est est un de un de un un un de un de un de de de <EOS>	0.29633954832777604
+C'est la le la la la le le de la de <EOS>	0.537284965911771
+Sur : est que de de est est nous est nous nous de de de de de <EOS>	0.23898737027690029
+Il a un un une un un de de un de de de de de de de de <EOS>	0.3288580454955831
+<talkid>1117</talkid> <EOS>	0
+Et il y a une une de de de de de de de de de de de <EOS>	0.15538177425503236
+Et c'est a une une une de de de de de de de de de de de de <EOS>	0.15220769076152843
+C'est tout. <EOS>	0.7598356856515925
+Et je je que que que que c'est c'est une une <EOS>	0.5408536609893481
+Et je me vous vous vous vous et et et je et et et et et et et <EOS>	0.2653906757172882
+Comment vous vous tu vous vous ? ? <EOS>	0
+La première est que chose que chose que chose chose chose que chose chose est la la la <EOS>	0.35879216606417047
+La de -- -- -- -- -- de de <EOS>	0.5623413251903491
+Que ce que ? <EOS>	0.668740304976422
+Et bien que que que que que ce ce ce ce de <EOS>	0.37239098949398236
+C'est est de de de de de de et les et et et de <EOS>	0
+Mais l'élève nous nous nous nous de <EOS>	0.5506953149031838
+Cela le le le <EOS>	0
+C'est le de de <EOS>	0.3004843884984905
+Ils ont à à à à à avec <EOS>	0
+Peut-être nous nous nous nous une ? <EOS>	0.5946035575013605
+Et quand ces que nous nous nous nous nous nous nous nous nous nous nous nous de <EOS>	0.4839771204962591
+La premier est de de de de de de de de de de de de de de et <EOS>	0.020841300466922105
+Une de de de de de de de de de de de de de <EOS>	0.5288454269158854
+Il doit que le de de la de <EOS>	0.45180100180492244
+Le premier était était était était était a une était était était était un un un de de <EOS>	0.5695988432761473
+Il était que si si si si si si si si si si si si si si si de	0.1942819385442987
+Et il a il a de de de de de de de de de de de de de <EOS>	0.38085779536016984
+Il ne pas pas pas de le de de de de de de de <EOS>	0.5852636722840082
+Les ne sont ne ne ou ou pas pas pas pas pas ou pas <EOS>	0.5653035577259873
+Les ne ne pas pas pas pas <EOS>	0.7825422900366437
+C'est a que de la <EOS>	0.6389431042462724
+La première est est la la la la la la la la la la la la la de <EOS>	0.19880028948495215
+Et il a les de de de de de de et de de et de de de de <EOS>	0.29693621041385787
+Ce que que que que que que que que que que que que nous nous nous de de <EOS>	0.08214713584180904
+Si je vous vous vous vous je vous vous vous je je vous je vous je que de de	0.11554798670047683
+Mais je je que vous si je vous je je je je je je de de de de <EOS>	0.1542219325930528
+La premier est de de de de de de de de de de de de de de de <EOS>	0.07940596992647717
+Voici est la de de de de de des de de de de de de <EOS>	0.5506953149031838
+Alors donc ce ? ? <EOS>	0.6389431042462724
+En si vous vous vous vous vous vous vous vous vous vous que vous vous vous vous vous <EOS>	0.07147233098138113
+Vous vous vous de de de de de de de de de de de <EOS>	0.5883466523431029
+Et vous vous vous de de vous vous vous vous vous vous vous vous vous vous vous de <EOS>	0.3796583449468533
+Et puis vous vous un de de de de de de de de et de et de et <EOS>	0.6795110078264116
+Et vous vous vous vous vous vous vous votre votre votre votre <EOS>	0.7447819789879647
+Et vous vous vous vous vous vous vous vous vous de de de de vous vous de <EOS>	0.7259795291154771
+Et vous vous vous vous vous de de de de de de et et et et et <EOS>	0.13993301353565923
+C'est un qui que de que que que que que que vous vous vous ce de de <EOS>	0.4653766328670584
+En fait, les le le le le le qui le qui qui qui qui la la <EOS>	0.25950103878663683
+C'est un qui de et et et et les et et et et les et les et et <EOS>	0.6446721251205965
+La première est de de la la la la de de de la de <EOS>	0.2830522383646072
+Je me que que je et et et je ce <EOS>	0.3987360570751108
+Et je pense que de un de de ces ces ces <EOS>	0.5246341022861458
+Et je pense que que que que que chose chose chose chose de de de de <EOS>	0.33573149263829316
+Mais il a un un un <EOS>	0.5169731539571706
+Le chose est un un un une une une une une une <EOS>	0.37239098949398236
+Voici un de c'est de c'est de de de de de de <EOS>	0.6930977286178778
+Je le le ma les ma les je ma je je ma de ma <EOS>	0.6289067444250225
+Et je je vous que que que chose une <EOS>	0.3860973950960897
+Je veux dire, y a mais mais mais mais mais mais mais mais mais mais mais mais mais <EOS>	0.31199732250224643
+Et je veux que que dans dans dans dans dans dans dans dans de de <PAD> <PAD> <PAD> <EOS>	0.26642688925300656
+Et je je je des des de des des des des des des de des de de <EOS>	0.3155094027663986
+C'est un un un <EOS>	0.668740304976422
+Elle a que que je que je de la de de de de de la <EOS>	0
+Et je trouvé que que de la la <EOS>	0.45180100180492244
+Je ne pas pas pas <EOS>	0.36409302398068727
+C'est n'est pas pas pas parce parce parce parce de de de de la <EOS>	0.7186082239261684
+Ce que que que est que et et et et et et et et et et et et <EOS>	0.16642919563963207
+Et je je le <EOS>	0.3769486629893372
+Voici mon mon mon de mon de de de <EOS>	0.7195907128571539
+C'est un renouvelable; de de de de de de et et et et et de et de et et	0.18360412324721312
+Je dois je que que je que que de de de de de de <EOS>	0.5081327481546147
+Et je je que que une un une une une une de de de de de de <EOS>	0.7259795291154771
+En je vous je un un un je je je un un un <EOS>	0.5169731539571706
+<title>Paul : : un un <EOS>	0
+Je me que que les les les le de de de la <EOS>	0.5266403878479265
+Et c'est est que et et et et et et et et et et et et de de et	0.5222861086617765
+Voici sont sont <EOS>	0
+Ils ont des des ces ces des des des des des des des des des des et et <EOS>	0.51268887076046
+Et ne ne pas pas pas de de de de de de de de de de de de <EOS>	0.4428670499505833
+Nous avons que que les les qui de de que de de nous nous nous nous de <EOS>	0.4839771204962591
+Les sont sont sont sont <EOS>	0
+Au nous nous nous nous nous nous nous nous nous nous <EOS>	0.41722614486115056
+Nous avons a nous nous nous nous nous nous nous <EOS>	0.7226568811456053
+Nous avons nous nous nous nous nous nous nous et et et nous nous et et et et <EOS>	0.08542140860890246
+Les objets sont sont aspect: sont aspect: sont sont socialisés. <EOS>	0.4578141331660858
+En fait, n'y ne pas pas pas <EOS>	0.45622720708659226
+Ils sont ils qu'ils qu'ils qu'ils <EOS>	0.7311104457090247
+Ils ont que une de de qui qui qui de qui qui qui de qui de de de <EOS>	0.6446721251205965
+Mais il y a pas pas pas <EOS>	0
+C'est est la la de de de <EOS>	0
+Et je pense que vous vous que vous que vous que vous que que vous vous que <EOS>	0.042025300035186064
+Comment nous nous nous de de de de de de de de de de de de de <EOS>	0.15323401490399635
+Je veux dire, que dans les dans dans dans dans dans dans de <EOS>	0.3884935863283276
+Mais si vous voulez vous vous vous vous de de la de de la et et et et <EOS>	0.12624426670185632
+Merci. <EOS>	0.8408964152537145
+Quand j'ai un une une un un un un un un un un un un très très <EOS>	0.5813189627146943
+J'ai commencé à à de de de de de de de de de de de de <EOS>	0.6111127561260491
+Et je suis je et et et et et et <EOS>	0.659858515800358
+J'ai suis de de de de <EOS>	0
+Quand je suis le la la la la la <EOS>	0.6696546139496112
+Ce que que que que que que que que était que pas pas pas la la pas la <EOS>	0.29600105754407685
+Mon mère de de de pas pas de de de de <EOS>	0.5878560343277044
+Certains sont sont qu'ils de qu'ils qu'ils <EOS>	0.37848698581337653
+Et il a a <EOS>	0.668740304976422
+La plupart de des de de de de de de de les les de de de de <EOS>	0.46230595512422085
+Mais je ne pas pas pas pas l'avais je pas de des des des des des de ne <EOS>	0.3925305606936355
+Après que je que je que je je que je que de de que nous nous de de <EOS>	0.2321994627829546
+En ce nous nous que nous nous pas pas pas mais mais mais mais mais mais mais mais <EOS>	0.1250819127615764
+Je j'ai allé allé à à de de et et et de de à <EOS>	0.5288454269158854
+Je les les les dans les les les et et et et et et et et les et <EOS>	0.18360412324721312
+Mon mon de et je de de de de de de <EOS>	0.5985529678206387
+Nous avons le le le de de de et et et et et de de <EOS>	0.35930411196308426
+Nous avons aussi le le le de et et et et et et de de et et et et	0.44600082499045485
+Nous avons que nous nous nous nous nous nous nous nous nous de nous nous nous <EOS>	0.08945321413795748
+Nous avons ces ces ces ces de de de de de de de <EOS>	0.38422005460399855
+Et les la de de de de <EOS>	0.5946035575013605
+En un ces ces ces ces de de un de de de de <EOS>	0.5898019932366151
+Et il a pas <EOS>	0.6511126026643229
+Elle ne pas de et et et et et et <EOS>	0.5444358245099123
+C'était était <EOS>	0.7598356856515925
+La premier est très de de de de de de <EOS>	0.4539249573898065
+Où : : <EOS>	0
+La la est de de la pas pas de pas de de pas de de de de et <EOS>	0.3017070462644764
+La la n'est pas pas un est est est est problème. <EOS>	0.3023870654786627
+Il y a ans, ans, ans, y a a a a dans a a de <EOS>	0.21941775920707085
+J'ai commencé à de de de de de de de de de de de de de de et <EOS>	0.42313413078009615
+C'était a que de je que je que de je que de je que de je je de <EOS>	0.05395561212898952
+C'est n'est pas pas pas dans le dans le le dans le le de la de de <EOS>	0.14698486065208133
+Pour que la nous nous nous nous nous nous nous de de de de de de de de <EOS>	0.2634872585857592
+Après de de de de de de de de de de de de de de <EOS>	0
+Ce que je un un une une une <EOS>	0.3939328149130935
+Comment les les les de de de de de de <EOS>	0.4578141331660858
+La ne je pas pas pas je pas <EOS>	0.6865890479690392
+Ce que que que que que que que que que que que que <EOS>	0.3237722713145643
+Beaucoup y a beaucoup pas pas de de de de pas pas de de de de de <EOS>	0.20105373454060027
+En fait, nous nous nous nous nous nous nous nous nous nous nous de de de <EOS>	0.25612451601872827
+Alors le de de de de de de de de que de de de de de de de <EOS>	0.4845112794317461
+C'est est de de de de de de et et et et et et de de de de <EOS>	0.3925305606936355
+Le Ishii et et et et et et et et et et et et et et et et et	0.11698995542474248
+Alors un est un un un de de <EOS>	0.4402274324685413
+Mais nous nous pas pas <EOS>	0.5081327481546147
+Et ce que je que je que je parce que que nous nous <EOS>	0.47179836345026477
+C'est la la de de <EOS>	0.6389431042462724
+Nous avons besoin de de de de de et et et et et et nos <EOS>	0.6580370064762462
+Nous avons nous nous nous nous nous nous nous nous nous nous nous nous nous nous de <EOS>	0.49207587827035715
+En nous nous nous nous de nous nous nous nous notre de notre notre <EOS>	0.5288454269158854
+Merci. <EOS>	0.8408964152537145
+Mon le de le de de de de de de de de de de de de de de <EOS>	0.2634872585857592
+En je je de de de de de de <EOS>	0.5088274727401554
+Les les sont dans dans dans dans dans dans dans dans et et de de de <EOS>	0.6964705665515708
+Ils ont ils des ils de de de de de ils de de de de de de <EOS>	0.5116256419057634
+Le premier a une de une une une une une une une une un un de de de <EOS>	0.31078387197707175
+Et c'est a de de de de de et de de et nous nous de de et <EOS>	0.5444460596606694
+Je j'ai que ma ma ma je ma à ma à ma <EOS>	0.6930977286178778
+Après tous a une une de de de de de de de de de de de de <EOS>	0.43308175585865843
+Les ils ont des des des de de des des des des des des des ils mais de <EOS>	0.45967013419737907
+Ils ont des des des de de de des des des des de de de de de <EOS>	0.38753858253732953
+En 2010, un un un un une une une une qui de une une de de de <EOS>	0.3665957917178929
+Et le le le le le le de et et de de de <EOS>	0.5169731539571706
+C'est un un un et et et et et et et de <EOS>	0.37053273356129773
+Une première que que je je je je je je que je que que que je de <EOS>	0.17007285642132824
+Et ce que que de de de de de de de de de de de <EOS>	0.5
+Mais je pense que que que c'est que que ce ce ce ce <EOS>	0.6337834876616586
+Mais si nous nous une nous nous nous nous une une une une <EOS>	0.41725820728418184
+Le première est que nous nous nous nous nous nous nous nous nous nous nous nous nous <EOS>	0.223047457279299
+Et n'est n'est pas pas pas de de de de de pas pas de de de de <EOS>	0.29766137655105235
+Alors donc nous avons une ces ces ces de de de de de de de de de <EOS>	0.24233706622798082
+Et ce a une une dans dans dans dans de de de de de de de de de <EOS>	0.3796583449468533
+Et nous nous nous nous nous nous nous nous nous de de de de de de de <EOS>	0.41653323821535565
+Je veux vous à de de de de <EOS>	0.5497775311418521
+Et je je que que que de de de de de de de de de de <EOS>	0.2928298013714698
+Et je suis à une de de de de de de de de de de de de <EOS>	0.16422055494484583
+Et ces ces de de de de de de de de de de de <EOS>	0.7186082239261684
+Ils ont beaucoup beaucoup de et et et et et et et et de <EOS>	0.6042750794713536
+Nous avons les ces ces nous ces qui qui les les qui qui qui de de de <EOS>	0.46548383647045716
+Et ces ces ces ces ces ces ces de de de de de de de de de <EOS>	0.45782273986766686
+Malheureusement, ces ces ces ces que de que pas pas pas pas de de de de de de <EOS>	0.36133101815226054
+Mais beaucoup beaucoup beaucoup de de de de de de nous de de de <PAD> <PAD> <PAD> <PAD> <PAD>	0.3796583449468533
+Et parce aussi pas de de de de de de de de de de de de de de <EOS>	0.34172577849007457
+Nous avons donc nous nous nous nous les de de de <EOS>	0.18393864369872084
+Et la la nous nous nous nous nous nous nous nous nous nous la la la la la <EOS>	0.18150564556773144
+Nous avons donc un un un un un un sur <EOS>	0.4578141331660858
+Et ces ces ces ces ces ces de de de de de de de de de de de <EOS>	0.3724053147374332
+Et ces ces ces ces ces ces ces ces qui de de de de de <EOS>	0.6240195441936915
+Soit nous nous nous nous nous nous nous nous de de de de de de de de <EOS>	0.5773502691896257
+Le premier est est de de de et et et et et et de de de de <EOS>	0.7259795291154771
+Et j'ai de je je je de je de de de de de de de de de de <EOS>	0.3242053201351006
+Pour je je je je je je je de de de de de de de de <EOS>	0.17028008164945987
+Quand je que nous avons de de de de de de de la de la la de la <EOS>	0.058249343071765616
+Sur de de de de de de de de de de et et et et et <EOS>	0.2570342453335712
+Et la la de de de de de de de de de de de de de de de <EOS>	0.2672686087797508
+Et ce ce que je que je que que que de de de de de de de de <EOS>	0.4614649086887338
+Et c'est n'est pas pas une une une une de de de et et et et de et <EOS>	0.6773709971213142
+Nous avons donc que que nous nous qui qui qui qui qui qui qui qui qui qui de <EOS>	0.6096932528910496
+Et c'est est de de de de de de de de et et de de de et et <EOS>	0.3288580454955831
+Il peut peut ces ces de de et et de et et de et et et et et <EOS>	0.6303647413359293
+Et il a une de de de de de de de de et et de de et <EOS>	0.46230595512422085
+Il a aussi de de de de de <EOS>	0
+Le qui a que nous que que de qui que de qui de et et et et et <EOS>	0.11714192447225681
+La première de de de de de de de de de de de de de de <PAD> <PAD> <EOS>	0
+Et les les de de de et les et et et et et et et et et et <EOS>	0.42313413078009615
+Ces un de un de un un de de de de de <EOS>	0.6262844962765469
+Et quand vous les les vous vous vous vous vous en en de de <EOS>	0.5288454269158854
+Dans les les les de de de de de de de de de de de de de de <EOS>	0.42016102601603045
+Par ce de je de de je de de de je que de de ne mais de <EOS>	0.17007285642132824
+Merci beaucoup. <EOS>	0.7598356856515925
+Je vais vais parler de de et et de et de et et de de de et <EOS>	0.37668865569074245
+Je pense que nous nous ces de de ces ces ces <EOS>	0.27505242667436647
+Et je pense que y de <EOS>	0.7311104457090247
+Il y a une a un un un un un un dans de de <EOS>	0.24632978011505757
+La question est nous nous nous nous nous <EOS>	0.41368954504257255
+Et la la est est c'est de de <EOS>	0.5444460596606694
+Je pense que que les les les les les les les de de de <EOS>	0.21651956746181059
+Alors vous vais vous montrer une une une un un un un de de de de de <PAD> <EOS>	0.3855472734263966
+Les : : gens gens gens gens de de <EOS>	0.5475182535069453
+Et je ne je pas je que je je je je je mes mes mes mes mes <EOS>	0.3381307292971254
+Je veux dire, vous de de de de de de de de de et de et de et <EOS>	0.38804418748173897
+Je ne pas pas <EOS>	0.6511126026643229
+Mais je sûr, la la la la que je que la que la que que que et et que	0.2797327176053286
+Quand vous ne vous ne pas pas il ne ne pas pas pas pas pas le le <EOS>	0.5408536609893481
+C'est la que de les que les que les que et et et que les que les <EOS>	0.2834458481265108
+Et ils ont ont gens les les les les ont ont les les ont été des de de <EOS>	0.4955082282904956
+La plupart de est de de de de de de de de de nous nous nous nous de <EOS>	0.21255090128082815
+Mais ce est est la <EOS>	0.45782273986766686
+Ce que que pas pas pas de de de de de de ? <EOS>	0.3237722713145643
+Que ne pas de <EOS>	0.668740304976422
+Alors les les vous les vous vous vous vous vous vous vous vous vous de de <EOS>	0.4924790605054523
+Comment vous vous tu vous vous vous vous ? <EOS>	0.5623413251903491
+Si si si si si vous si vous vous vous vous pas <EOS>	0.6262844962765469
+Comment vous <EOS>	0
+Comment vous vous vous de <EOS>	0
+Vous pouvez voir le le le le le le le <EOS>	0.5491004867761125
+Et il ne peut une une une une <EOS>	0.6865890479690392
+Et vous vous vous vous vous vous vous que vous vous que vous que vous mais que mais <EOS>	0.26642688925300656
+C'est un un c'est un <EOS>	0.6389431042462724
+Dans les nous nous nous nous nous nous nous que nous nous nous de la <EOS>	0
+Nous sommes que que que de de qui de de de de de de de de de <PAD> <EOS>	0.46862274909776624
+Je j'ai que je que je que je je je que je je je que je de <EOS>	0.15538177425503236
+Je me que que me que de de de de de de <EOS>	0.5266403878479265
+Je ne pas pas pas mais mais mais mais mais mais n'est mais pas mais mais mais mais <EOS>	0.29034622434743534
+Merci <EOS>	0
+Alors si nous nous nous si nous nous de de et et de de et de de <EOS>	0.16155496236295866
+Je pense que les les les de de de de les les les les les les de <EOS>	0.06357547535410647
+Et la est est la ? <EOS>	0
+La contraire est est de la de <EOS>	0.7071067811865476
+Et je pense que c'est que c'est c'est <EOS>	0.2984745896009823
+C'est ce pas pas je pas <PAD> <EOS>	0.7825422900366437
+Je n'ai de de de mais de de de de de de <EOS>	0.32116025732522635
+En fait, je je je pas pas pas de <EOS>	0.24108807894151082
+Et je des des des de de de de de des de de des de de de de <EOS>	0.08822026612798116
+La ce est pas pas pas ce est de de <EOS>	0.7226568811456053
+Le : : est est et et et et et <EOS>	0.6529942057256104
+Et si ce que que c'est a que que que c'est c'est c'est ce que que que <EOS>	0.43308175585865843
+C'est sont les de gens gens de de de <EOS>	0.510029457493824
+Et je pense que nous nous nous nous nous nous les <EOS>	0.21200626759025185
+Les ils ont des des des de <EOS>	0
+Et si nous nous nous nous nous nous nous nous nous nous et nous nous et et et <EOS>	0.15739901526932998
+Mais nous nous nous nous nous nous <EOS>	0.24786763988804325
+Je ne sais pas de et et et et et et et et et et et et et et	0.5106948710219815
+Je ne pas de de des des de des des ne ne de des ne ne de ne <EOS>	0.45441639860867034
+Et je pense que que que que que que que et et que que que que que que <EOS>	0.26642688925300656
+Je ne je pas pas pas <EOS>	0.45691722266180906
+Mais ce ce que nous nous nous nous nous <EOS>	0.668740304976422
+La est est est la <EOS>	0.5623413251903491
+La question que nous nous nous nous nous nous nous nous nous nous <EOS>	0.3237722713145643
+Au les nous nous nous nous avons de de avons de de de de de de de de <EOS>	0.4445962170753971
+Ces sont ces ces ces ces ces <EOS>	0.5946035575013605
+Ils ne pas pas pas de de <EOS>	0.48109772909788073
+Je suis ai ai vous vous vous de de je de de de de de de de de <EOS>	0.2546949582218077
+Et toutes ces ces ces ces de de de de de de de de de de de <EOS>	0.23578965548817055
+Il s'avère que que les gens les les les et les les les les de de de de <EOS>	0.2535656082323295
+Vous pouvez pouvez de de vous de <EOS>	0.43472087194499137
+Alors donc donc de <EOS>	0.668740304976422
+La que je veux que je que nous nous nous nous nous nous nous nous et et <EOS>	0.19896894256029013
+C'est n'est pas pas pas et et et et et et et et et de <EOS>	0.3096787331587729
+Maintenant, les les <EOS>	0.42888194248035344
+Et je : : : je que de de de de de de <EOS>	0.5898019932366151
+Je veux vous que vous vous vous vous vous votre <EOS>	0.36720562698935927
+Maintenant, nous nous nous nous nous nous <EOS>	0
+Nous pouvons une une de de <EOS>	0
+Nous pouvons que nous nous nous nous nous <EOS>	0
+Mais la la est la est la la de la est la la <EOS>	0.3529251315330747
+Vous ne pas pas pas pas pas <EOS>	0.33065331125965697
+Vous pouvez voir de de vous de de de de <EOS>	0.5962494769762219
+Alors je donc que que être <EOS>	0.6080253214198359
+Et si sûr, que c'est que c'est que de que que de que que de de de <EOS>	0.6389431042462724
+Mais vous vous vous vous vous vous vous vous vous vous <EOS>	0.3286657259915995
+Comment ? ? ? <EOS>	0.668740304976422
+Et ces ces de les les et et et et et et et et et et et et <EOS>	0.45441639860867034
+Permettez-moi vous vous un un un un un <EOS>	0.6865890479690392
+La chose que j'ai que je que que de et et que de que que et et que <EOS>	0.5695988432761473
+Ils ont et et et et et et et et et et et et de de de <PAD> <PAD>	0.6096932528910496
+C'est parce que je je que je je que ils mais pas pas de de <EOS>	0.5946035575013605
+Je pense que y a une une une une une <EOS>	0.32035587991208064
+Si vous vous que vous que de de de de de de de de de de de <EOS>	0.26990921614036656
+Alors ce que que que que que que que que nous nous nous nous nous nous <EOS>	0.5856596027429395
+C'est est que dans dans et dans et et et et vous et et et vous et et <EOS>	0.5487773527367232
+Alors ce que que que nous nous nous nous de de de nous nous de de <PAD> <EOS>	0.09201863360301858
+Merci. <EOS>	0.8408964152537145
+Vous savez, de de de de de de de de de de de <EOS>	0
+Je mon avec avec mon ma de ma de ma de ma de mon mon de mes mes <EOS>	0.5784339627848556
+Elle sont des de de de de de de <EOS>	0.5623413251903491
+Son était de de de de de <EOS>	0.7071067811865476
+Il a un un une un un et et et et et et de de de <EOS>	0.5856596027429395
+Mais vous vous vous vous le vous vous vous et et et de de <EOS>	0.40505769908942735
+Nous nous nous nous les les de les de et et et les les de <EOS>	0.48143015836328423
+Mais la de de de de de <EOS>	0.5946035575013605
+Ce ne pas pas pas <EOS>	0.6389431042462724
+De y a ans, ans, ans, a a y a a a a a a a ans de <EOS>	0.19880028948495215
+Je sais que vous que vous que ? <EOS>	0.5773502691896257
+<talkid>1117</talkid> <EOS>	0
+Il y a y a y une un de de de de de de de de de de <EOS>	0.13324487376388505
+Il y a très très de de de de de de de de de <EOS>	0.345720784641941
+La est est de de de de <EOS>	0
+Mais je je que que que de que de ou ou ou ou de de de ou <EOS>	0.21328369624732377
+Leur de vos vos de de de de de de de de <EOS>	0.579915067709191
+Mais c'est n'est pas pas pas pas <EOS>	0.7071067811865476
+Il y a que que que c'est c'est c'est que c'est c'est c'est que que c'est que <EOS>	0
+Je je suis ma ma ma ma ma ma ma ma ma ma ma ma ma ma <PAD> <PAD>	0.3681489602129511
+Je suis une un un un de de <EOS>	0.5773502691896257
+Il était pas le <EOS>	0.4482700320176827
+Il ne pas pas pas de pas la pas de de <EOS>	0.6505696445772021
+Mais il le de de de de de de de <EOS>	0.36408617932284865
+Alors il a et et et et et et et et et et et et et et <EOS>	0.24848213888287898
+Et je me que je ce ce ce <EOS>	0.3549481056010053
+Est-ce de de de et et et et et et et et et <EOS>	0.7311104457090247
+Est-ce que a pas de à de de de de de de de de <EOS>	0.5081327481546147
+Il y a a a de de de le il qui qui qui de qui qui de <EOS>	0.02905653210236233
+La de de de de de de de de de <EOS>	0.5491004867761125
+Combien était la la de ? <EOS>	0.6147881529512643
+Non, et et un un et et et et et de de <EOS>	0.6262844962765469
+C'est comme -- de de ma de ma de je -- je et et et je et je <EOS>	0.41428084942618915
+Pourquoi est est nous nous nous nous le de de de de de de de de de <EOS>	0.3525877739588073
+Il y a de de de de de de et et et et et et et et et <EOS>	0.13366583282098357
+Je ne sais pas de de sont de sont de de de de <EOS>	0.6147881529512643
+Je ne pas pas je pas je je je je je je que je je que je de <EOS>	0.4445962170753971
+Je pense qu'il que y a qu'il que que que que que que que que c'était c'était <EOS>	0.3501806396568502
+J'ai ai je je je je de de <EOS>	0.5773502691896257
+Pourquoi vous vous ? <EOS>	0.5095231471606585
+Je sais sais que que que ce ce <EOS>	0.6865890479690392
+Les y a a et et et et et et et et et et et et et et <EOS>	0.4001755536681283
+C'est une un si si y a si y a vous si vous vous vous vous vous vous <EOS>	0.5784339627848556
+Il y a de de de de de de de de de de de de <EOS>	0.20751250463636658
+Mais ils ils ont pas pas pas de de de de ils ils ils ils de de <EOS>	0.5773502691896257
+Ils ont un une un de de de de de un un un de de de de <EOS>	0.223047457279299
+Il n'y pas pas <EOS>	0.34154357946095637
+Et nous avons les les les les les les les les les les les les les et et <EOS>	0.10273830281045464
+Et la sûr, le le le le de de de que de de de de de de <EOS>	0.06573021827027627
+Les : : vous de ils de ils vous vous vous vous de de <EOS>	0.6042750794713536
+Je veux que que ce ce avec de <EOS>	0.3701856698591431
+Combien : : vous tu ce vous vous vous vous vous vous ? ? <EOS>	0.668740304976422
+Je ne je pas pas pas pas pas pas la pas de de <EOS>	0.6803749333171202
+C'est n'est pas pas de de <EOS>	0.4004970149398301
+Et ces ces ces de de de ces ces ces <EOS>	0.3710657122133102
+Je ne pas pas pas pas vous l'enseignant. <EOS>	0.43443712531357925
+Il ne pas pas pas et et et et et et et et et et et et <EOS>	0.5773502691896257
+Le premier est est et et et et et et et et et de de de de de de	0.31801166994331115
+Et il a que que chose a que que que qui qui qui qui qui que qui que <EOS>	0.175423236175552
+Alors donc donc à de de <EOS>	0
+Et les ces ces ces ces de de de ces ces ces <EOS>	0.460407711864358
+Et ils qu'ils qu'ils chose de chose de chose de chose de <EOS>	0.4181117364345025
+Merci. Merci. Merci. <EOS>	0.7071067811865476
+Merci beaucoup. <EOS>	0.7598356856515925
+Ils sont les et et et et et et et et les les <EOS>	0.5169731539571706
+C'est ce que j'ai de que j'ai j'ai de et et et et je que et que que <EOS>	0.6096932528910496
+En fait, j'ai j'ai j'ai j'ai j'ai j'ai de j'ai de j'ai de <EOS>	0.5169731539571706
+Jean : : : : : : : : : : de de de de de de de de	0
+Il doit aussi pas de de de <EOS>	0.6905911470987942
+Et je ne je pas pas si vous je mais mais mais mais ne mais ne pas <EOS>	0.06533916047624895
+Nous avons tous dans dans dans de de et et et et de de et et et et <EOS>	0.1413052141492459
+C'est est de <EOS>	0
+Alors les de <EOS>	0
+Une des de de de de de de de de de de de de de de de de <EOS>	0.47897362544357464
+Pourtant, n'est pas pas pas <EOS>	0.6389431042462724
+C'est n'est pas pas de de de de de de nous nous nous nous de de de de <EOS>	0.31199732250224643
+Mais il y vraiment vraiment vraiment vraiment vraiment vraiment vraiment un un <EOS>	0.1920941346855095
+Le : : a a la de de de de de de de la <EOS>	0.5081327481546147
+C'est ce ce <EOS>	0.7071067811865476
+Une qui ont de ont de de de de de de de de de de de de <EOS>	0.5773502691896257
+Je pense que c'est c'est de de de de de <EOS>	0.3388203676097613
+Je ne pas pas ces ces ces de ces ces ces ces <EOS>	0.3448195623085273
+Je ne sais pas pas pas que pas que pas pas les de des de de de de <EOS>	0.1271870747806619
+Ils sont sont sont sont sont eux-mêmes. <EOS>	0.5247357977607321
+Que sont sont de de ? <EOS>	0.6147881529512643
+Il y a de de de de de de de de de de de de de de de <EOS>	0.2453846712967983
+Où nous nous nous ? <EOS>	0.38753858253732953
+Vous savez, vous une une un un de un de de de de de de un de de <EOS>	0.1493290859115707
+Nous avons que les les les que les que que et et que et que et que et <EOS>	0.07019798491214176
+Je pense que que que que que que que que que de de de de de de de <EOS>	0.4845112794317461
+Je pense que nous nous nous nous nous nous de de de de de <EOS>	0.17395797375642233
+La est est de de de de <EOS>	0.510029457493824
+Elle est de de de de de de de de et et de de de de <EOS>	0.46139791522696905
+Ils sont les des dans dans de <EOS>	0
+Alors nous nous donc de de de de de de de de de de de de <EOS>	0.034224047646919546
+Et je pense que que de de de de de de de de de de de de de <EOS>	0.0100543561114462
+Quand je que vous que que que que que que que que que que que que que que <EOS>	0.5695988432761473
+<talkid>1645</talkid> <EOS>	0
+La et et et et <EOS>	0.6389431042462724
+Que ces ces ces <EOS>	0
+Ce n'est pas pas pas pas pas la <EOS>	0.5773502691896257
+Je pense que gens gens gens <EOS>	0.3564026463354183
+Je pense que les les les les les de de les les les les qu'ils qu'ils les les <EOS>	0.16642919563963207
+Et ils sont <EOS>	0.7071067811865476
+J’ai ma de de de de de de je je de ma de mes mes mes <EOS>	0.6481388934544839
+Je ne que pas le le <EOS>	0.6147881529512643
+Je me ai ma de et et et et et et et et et et de et et <EOS>	0.12522494966498662
+Merci. <EOS>	0.8408964152537145
+Je vous vous un un un un une une une de <EOS>	0.6389431042462724
+Je ne pas pas pas je pas pas pas pas. <EOS>	0.3987360570751108
+Il a a un de dans dans dans de <EOS>	0.7195907128571539
+C'est est de <EOS>	0.510029457493824
+Les les de les de et et et et et et de de <EOS>	0.46199933699457096
+Soit que le le le le le le le le à le à de de de de de <EOS>	0.51268887076046
+Alors il il n'y a il n'y pas pas pas pas pas <EOS>	0.33649324423301513
+Il a un un un un un dans de de <EOS>	0.6251012684704784
+Peut-être a a une de de <EOS>	0
+Une un de de de de de de de de de de de de de de de <EOS>	0.4839771204962591
+Il a de de et et et et et et et et et de <EOS>	0.6042750794713536
+Il a un un de de de de de de de de de de de de <PAD> <PAD> <EOS>	0.5980456132683322
+Il est la la de de <EOS>	0
+Il a le de <EOS>	0.668740304976422
+Il est que de de de <EOS>	0.6147881529512643
+Il est un un de de <EOS>	0.6337834876616586
+Un est de de de un de de de un de de de de <EOS>	0.5653035577259873
+Cette a le le le de la de de la de de de de de de de de de	0.1652597994637113
+Alors donc donc de de de de de de de de de de de de de de <EOS>	0
+Il était menteur. <EOS>	0.49760938992507125
+Il a un une un et et et et et et et et et et et et et et	0.35469140112086484
+C'est ce que de ce que que ce ce de <EOS>	0.1771015781757256
+Et il a le le dans dans dans dans à de <EOS>	0.69908257861979
+C'est est de de de de de de de de de de de de de de de de de	0.3796583449468533
+Pour la la de de de de de de de de de de de de de de de <EOS>	0.3292341097518029
+En la la la la la la la la la <EOS>	0
+Au les de de de de de de de de de de de de de de <EOS>	0.4924790605054523
+Si nous nous pas pas les les les les les les les les les les et et et <EOS>	0.14894152350657192
+Et les les les les de de de les de de les les les les <EOS>	0
+Les de ne pas pas de de <EOS>	0.4026190971287384
+Ils ont pas pas <EOS>	0.4482700320176827
+Je suis allé allé et et et et j'ai j'ai je et et j'ai j'ai j'ai j'ai j'ai <EOS>	0.4135171000263379
+Je ai que que que j'ai de j'ai que je je que je que que j'ai de <EOS>	0.5408536609893481
+Ce que que que que que que de de de de de <EOS>	0.5266403878479265
+Regardez je un un <EOS>	0.668740304976422
+Je ne pas pas pas pas pas <EOS>	0.42456725576936255
+Ma le de la de et et de et de qui que de de de de ce et et	0.4614649086887338
+J'ai travaillé de de de de de de de <EOS>	0.5623413251903491
+Nous avons les de de de et et et de de <EOS>	0.2513906893185094
+Une était de de de de de <EOS>	0
+Il a a le la de la la <EOS>	0.6865890479690392
+Il y avait pas de de de <EOS>	0.43472087194499137
+Je me que qu'il qu'il que que que c'était c'était de de de de de de de <EOS>	0.18356187698572163
+Ils ont qu'ils qu'ils qu'ils <EOS>	0.6389431042462724
+Mais il un un un un <EOS>	0.7311104457090247
+Dans les le le de de de de de de de de de de la de <EOS>	0.5522027108670324
+Il y a de de de de de de de de de de de de de de et <EOS>	0.5106948710219815
+Elle un un et et et et <EOS>	0.5247357977607321
+Il a un un un <EOS>	0.43012508513132625
+Il ne pas pas de de de de de de de de de de de de <EOS>	0.4909136024426773
+Il est de les de de et et et et et et et de et et de et et	0.24730461302405626
+Comment ce est est est ? <EOS>	0.5494128986804837
+Que que la ça de ? ? <EOS>	0.6240195441936915
+Je pense que que le de de de de de de de de la <EOS>	0.6042750794713536
+C'est le que de et et et et et et et et et que la la <EOS>	0.6546916505371511
+Elle signifie que de gens gens de de de de de de de de de de de <EOS>	0.4854917717073234
+Et vous vous vous les de de <EOS>	0.5506953149031838
+Je veux vous vous de de de de de de de de de de de de de de <EOS>	0.5673835037021759
+Il y a des de de de de de de de de de de de de de et <EOS>	0.4845112794317461
+Il a la de de de de de de de de de de de de de de de de	0.18787414376068837
+Si vous étiez vous vous de vous de de de de de de de de de de de de	0.14167290602821433
+Alors donc un un <EOS>	0.5475182535069453
+Il a un et et et et et et <EOS>	0.6051012508914458
+Il a a une et et et et et et et et et et et et de et et	0.4001755536681283
+Et il a les les les les les les et et et et et et et et et <EOS>	0.11433099714802224
+Il y a pas de de de de <EOS>	0.3549481056010053
+Il a dit, de la de de de de de de de de de de et et et <EOS>	0.46862274909776624
+Et il a pas pas de de de de de de de <EOS>	0.3176962179326882
+C'est un un de de un un et un et de de et de de <PAD> <PAD> <PAD> <PAD>	0.45967013419737907
+Ils ne pas pas de de de de de de <EOS>	0.5491004867761125
+On a a a a a a a a a a de de de de de de de <EOS>	0.33136632370531255
+Il a un un de pour pour pour de <EOS>	0.5475182535069453
+Il ne que pas que de que que de de de de de de de <EOS>	0.6181685596984614
+Au de de de de de de de de de de de de de de de <PAD> <PAD> <PAD>	0.41535885426035796
+Ils ont des des de de de de de de <EOS>	0.4063798282013443
+Alors bien, les les les et et et et et et et et et et et et et <EOS>	0.45967013419737907
+Ils ont occasionellement. et et de de de de de de et et et et <EOS>	0.3827415206552719
+Les personnes les personnes ont les de de de de de de de de de de de <EOS>	0.3280443278078623
+Pour bien, que c'est c'est de de de de <EOS>	0.4954150028307823
+C'est un un un un <EOS>	0.6431870218238024
+Ce n'est n'est pas pas pas pas pas <EOS>	0.5773502691896257
+Je ne que c'est c'est le <EOS>	0
+Ce qui est que que et et et et et et et et que et que que et <EOS>	0
+Ces images le le de et et et et et et à de à <EOS>	0.6256112264776171
+Il a la la de la de de la <EOS>	0.3254348667607771
+Ces sont sont un une une dans dans <EOS>	0.6143868746168435
+Donc les de de de de de de de de de de et de et et et et et	0.17351316507319806
+Merci. <EOS>	0
+Alors j'ai de de de de de de de de de de de de de de de <EOS>	0.23578965548817055
+Mais vous vous vous ces ces ces <EOS>	0.5946035575013605
+Ils sont des des des de de de de de <EOS>	0.4063798282013443
+Cependant, je je je je je de de <EOS>	0.41368954504257255
+Je ai le de de de de de de de de <EOS>	0
+Voici un un de de et et et et et et et de <EOS>	0.5329462628216854
+Et j'ai me que je que je que de de de de de de de de de <EOS>	0.6143868746168435
+Parce que ma ma ma ma ma ma de ma de ma ma de ma de de de <EOS>	0.3075831447903366
+C'est ce que que à ce ce ce à ce de <EOS>	0.38827267775222324
+Pour je la de je je je je je je de de <EOS>	0.579915067709191
+Alors je donc vous montrer comment de de de de nous nous nous nous <EOS>	0.21651956746181059
+Voici un un de de de de de de de de de <EOS>	0
+Et les les nous nous nous nous nous et et et et et mais nous mais mais nous <EOS>	0.4378053628660951
+Que y a que de de de de de de de de de de de de de et <EOS>	0.5106948710219815
+Vous voyez nous une une une de nous nous nous nous nous nous nous de de de <EOS>	0.23578965548817055
+En fait, a a une de de de de de de de de de de de de de <EOS>	0.470103263769908
+Le est est est de dans le de et et et et et et et et la de <EOS>	0.1810345734782742
+Le était de de de de de de de de de de de de de de de de <EOS>	0.24163661527658378
+Voici un un de -- un de de de de de de <EOS>	0
+La de de de de et et et et et et de de de et et et <EOS>	0.38753858253732953
+Alors, vous donc un un un un un un un <EOS>	0.5491004867761125
+Il un un un une un de de de de de de de de de de de <EOS>	0.4839771204962591
+Alors nous nous nous nous nous que nous nous de de de de de de de de de <EOS>	0.3492737715914251
+Nous avons le le le de de de de de de de de <EOS>	0.5169731539571706
+Mais vous pouvez pouvez voir le le -- le de pouvez pouvez pouvez pouvez de de de de <EOS>	0.15164534819989714
+Alors vous vous que vous vous vous vous vous vous vous que que de <EOS>	0.31239399369202553
+Quand je vous vous vous vous que vous mais mais mais mais mais mais mais mais mais mais <EOS>	0.22316606785242868
+Et nous nous a une une un de de de de un de de de de de <EOS>	0.7259795291154771
+Ce que nous nous nous nous de de de de de de de de de de de de <EOS>	0.3028850564726945
+Nous avons une une un de de de de de de de et et et et et et <EOS>	0.4845112794317461
+Vous ne pouvez pas pas dans le le pas dans dans pas dans pas dans pas pas pas <EOS>	0.31925334128696714
+Nous avons donc une une de qui de qui qui de de de de de <EOS>	0.5946035575013605
+Nous avons que que de de de de de de de de de de de de de de de	0.49394770476579597
+Il y a nous nous nous nous nous nous nous nous nous nous nous nous pour <EOS>	0.3669898885019683
+Et nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous la de <EOS>	0.3533119006062027
+Alors j'ai donc que ma ma ma ma de ma de ma de de de et de de <EOS>	0.5403952143993433
+La est est la de de de la <EOS>	0.3653166213293175
+Il y a pas dans dans <EOS>	0.5494128986804837
+Alors a a été été parce qui qui de qui de de de <EOS>	0.6147881529512643
+Chaque un de un une dans un un de de de de de de <EOS>	0.3789343068389945
+Elle a le le dans dans dans dans dans dans dans <EOS>	0.537284965911771
+Merci beaucoup. <EOS>	0.7598356856515925
+Merci. <EOS>	0.8408964152537145
+En ma de ma ma de de de de de de de de de de de <PAD> <EOS>	0.24925978674400284
+La exemple, que j'ai je que que cette en <EOS>	0.668740304976422
+Mais il que que que de de de de de de de de <EOS>	0.6334717766551771
+Pour je de je de je je je je je que je je que que que que que <EOS>	0.36019306418532926
+Je pense que que que de de de une de de une de de <EOS>	0
+Pour j'ai de je de je de je de je je de je je je je de de <EOS>	0.47897362544357464
+J'ai passé de de de de de de de de de de de de <EOS>	0.5081327481546147
+Pour que nous nous nous nous nous nous nous nous nous nous nous nous <EOS>	0.6042750794713536
+Un est de de de de <EOS>	0.6147881529512643
+Vous ne pas pas la de la la la <EOS>	0.6051012508914458
+Les peut peut de de de -- de de de de de de - de de de de <EOS>	0.3184247646436577
+Comment vais vous vous vous vous vous vous de <EOS>	0.4482700320176827
+Vous savez, que <EOS>	0.7071067811865476
+Votre : de de de de de et vous <EOS>	0
+Vous n'écrirez un un <EOS>	0.668740304976422
+Voici un un un <EOS>	0.5475182535069453
+<url>http://www.ted.com/talks/jack_horner_building_a_dinosaur_from_a_chicken</url> <EOS>	0
+Si si de de de de de un de de de de de de de de de de <EOS>	0.15517211402701744
+C'est un un <EOS>	0.7071067811865476
+<talkid>231</talkid> <EOS>	0
+C'est un un un <EOS>	0
+Le sono <EOS>	0.7598356856515925
+Le sono <EOS>	0
+Le de de de de de de de de de de de de <EOS>	0.6803749333171202
+Je ces ces ces <EOS>	0.5475182535069453
+Ils ont des des des des des des des de de de de <EOS>	0.5169731539571706
+Une sont <EOS>	0.7598356856515925
+Si s’éloigne, est de de de de de de <EOS>	0.5623413251903491
+Pour : : est de de de est est de de de de de <EOS>	0
+Si si vous un un un est un est un un un de de de de <EOS>	0.4924790605054523
+Le première est est est est est la est <EOS>	0.6696546139496112
+Il a un de de de de de de de <EOS>	0.5491004867761125
+Un est est une nous nous nous nous nous un de <EOS>	0.6389431042462724
+Les nous nous nous nous nous <EOS>	0.6147881529512643
+Pour : nous nous nous nous nous une un un un <EOS>	0.537284965911771
+Sur : est de de de de dans <EOS>	0.5773502691896257
+Si un un un un un un un <EOS>	0.46230595512422085
+<speaker>Steve <EOS>	0
+DH: : je je vraiment <EOS>	0
+Chaque un est un un de de <EOS>	0.5946035575013605
+En les de de de de de de de de <EOS>	0.5491004867761125
+Pour la la la la de de de <EOS>	0.6865890479690392
+Deux était un de <EOS>	0.668740304976422
+La est est <EOS>	0
+Le premier est la la la la la la la <EOS>	0.7226568811456053
+Cela a une une de et et et et <EOS>	0.6051012508914458
+Le est est est la de la <EOS>	0.7071067811865476
+Un un un un un un un un un de un de <EOS>	0.5266403878479265
+Où : : à à à la <EOS>	0.5247357977607321
+<title>Alan Machover de de de <EOS>	0
+C'est un un de de vous vous vous vous <EOS>	0
+Sur : nous nous nous <EOS>	0
+Ils ont des ils ont de de de de <EOS>	0
+La est est de de de de de <EOS>	0
+Nous avons donc des de de de <EOS>	0.5946035575013605
+Au la vous vous vous vous vous vous vous vous vous vous vous de <EOS>	0.5081327481546147
+La premier de de un de de de <EOS>	0.5773502691896257
+Alors donc vous de de de de de de de de de de de de de <PAD> <PAD> <EOS>	0.5695988432761473
+Donc nous nous nous nous nous nous nous de de de de <EOS>	0.6262844962765469
+Par exemple, les et et et et les et et et et de de et de <EOS>	0.34823528327578546
+Nous avons aussi de de de de de de de de <EOS>	0.537284965911771
+C'est un que que de de ce ce qui de qui que qui de de <EOS>	0.33437015248821106
+Alors nous avons une une un <EOS>	0.3367765041827165
+Une que que que que nous nous nous ? ? ? <EOS>	0.6389431042462724
+Une des des <EOS>	0
+Le est est de de de de de de de de de de <EOS>	0.6147881529512643
+En fait, les a les les les les les les les les les les les ils pas <EOS>	0.4344371253135792
+Ou les les de de de de <EOS>	0
+Un est est est un est un une de de <EOS>	0.6529942057256104
+C'est un à j'ai de de je de je et je et et de de de et <EOS>	0.6494854111739939
